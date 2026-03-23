@@ -1,0 +1,1311 @@
+Année;Code département;Libellé département;Code région;Libellé région;Consommation électricité industrie (MWh)
+2012.0;9.0;Ariège;76.0;Occitanie;255085.68
+2012.0;10.0;Aube;44.0;Grand Est;651461.77
+2012.0;38.0;Isère;84.0;Auvergne-Rhône-Alpes;3959617.53
+2012.0;84.0;Vaucluse;93.0;Provence-Alpes-Côte d'Azur;714757.49
+2012.0;88.0;Vosges;44.0;Grand Est;2118125.93
+2013.0;36.0;Indre;24.0;Centre-Val de Loire;408451.79
+2013.0;68.0;Haut-Rhin;44.0;Grand Est;2123234.2
+2014.0;11.0;Aude;76.0;Occitanie;265952.51
+2014.0;21.0;Côte-d'Or;27.0;Bourgogne-Franche-Comté;706579.34
+2014.0;29.0;Finistère;53.0;Bretagne;1156616.6
+2014.0;36.0;Indre;24.0;Centre-Val de Loire;409709.01
+2015.0;29.0;Finistère;53.0;Bretagne;1155849.58
+2015.0;2B;Haute-Corse;94.0;Corse;0.0
+2015.0;75.0;Paris;11.0;Île-de-France;423817.93
+2016.0;3.0;Allier;84.0;Auvergne-Rhône-Alpes;542269.76
+2016.0;42.0;Loire;84.0;Auvergne-Rhône-Alpes;1364059.92
+2016.0;57.0;Moselle;44.0;Grand Est;3384024.62
+2016.0;72.0;Sarthe;52.0;Pays de la Loire;1213983.89
+2016.0;973.0;Guyane;3.0;Guyane;0.0
+2017.0;3.0;Allier;84.0;Auvergne-Rhône-Alpes;572232.57
+2017.0;4.0;Alpes-de-Haute-Provence;93.0;Provence-Alpes-Côte d'Azur;222611.75
+2017.0;8.0;Ardennes;44.0;Grand Est;1034725.5
+2017.0;11.0;Aude;76.0;Occitanie;268901.98
+2017.0;18.0;Cher;24.0;Centre-Val de Loire;367265.13
+2017.0;41.0;Loir-et-Cher;24.0;Centre-Val de Loire;587090.8
+2017.0;46.0;Lot;76.0;Occitanie;204052.51
+2017.0;48.0;Lozère;76.0;Occitanie;117426.17
+2017.0;49.0;Maine-et-Loire;52.0;Pays de la Loire;1170734.96
+2012.0;35.0;Ille-et-Vilaine;53.0;Bretagne;1410184.94
+2012.0;45.0;Loiret;24.0;Centre-Val de Loire;1285577.66
+2012.0;47.0;Lot-et-Garonne;75.0;Nouvelle-Aquitaine;369559.99
+2012.0;971.0;Guadeloupe;1.0;Guadeloupe;0.0
+2013.0;6.0;Alpes-Maritimes;93.0;Provence-Alpes-Côte d'Azur;437852.88
+2013.0;8.0;Ardennes;44.0;Grand Est;1003087.26
+2013.0;33.0;Gironde;75.0;Nouvelle-Aquitaine;1456510.51
+2013.0;50.0;Manche;28.0;Normandie;1111599.42
+2013.0;52.0;Haute-Marne;44.0;Grand Est;559827.53
+2013.0;59.0;Nord;32.0;Hauts-de-France;11413322.5
+2013.0;83.0;Var;93.0;Provence-Alpes-Côte d'Azur;358278.53
+2014.0;28.0;Eure-et-Loir;24.0;Centre-Val de Loire;460597.36
+2014.0;56.0;Morbihan;53.0;Bretagne;1231267.93
+2015.0;2.0;Aisne;32.0;Hauts-de-France;1090247.01
+2015.0;28.0;Eure-et-Loir;24.0;Centre-Val de Loire;703177.82
+2015.0;38.0;Isère;84.0;Auvergne-Rhône-Alpes;3956979.82
+2015.0;64.0;Pyrénées-Atlantiques;75.0;Nouvelle-Aquitaine;1184507.46
+2015.0;974.0;La Réunion;4.0;La Réunion;0.0
+2016.0;4.0;Alpes-de-Haute-Provence;93.0;Provence-Alpes-Côte d'Azur;165776.76
+2016.0;43.0;Haute-Loire;84.0;Auvergne-Rhône-Alpes;653044.96
+2016.0;47.0;Lot-et-Garonne;75.0;Nouvelle-Aquitaine;356909.27
+2016.0;55.0;Meuse;44.0;Grand Est;526817.73
+2016.0;61.0;Orne;28.0;Normandie;668640.42
+2017.0;1.0;Ain;84.0;Auvergne-Rhône-Alpes;2032780.0899999999
+2017.0;14.0;Calvados;28.0;Normandie;901928.95
+2017.0;29.0;Finistère;53.0;Bretagne;1152090.19
+2017.0;51.0;Marne;44.0;Grand Est;1461407.64
+2017.0;68.0;Haut-Rhin;44.0;Grand Est;2517658.12
+2012.0;86.0;Vienne;75.0;Nouvelle-Aquitaine;372473.08
+2013.0;65.0;Hautes-Pyrénées;76.0;Occitanie;308368.66000000003
+2013.0;974.0;La Réunion;4.0;La Réunion;0.0
+2014.0;31.0;Haute-Garonne;76.0;Occitanie;1074649.92
+2015.0;89.0;Yonne;27.0;Bourgogne-Franche-Comté;535500.23
+2016.0;36.0;Indre;24.0;Centre-Val de Loire;413626.08
+2017.0;25.0;Doubs;27.0;Bourgogne-Franche-Comté;993588.0700000001
+2017.0;39.0;Jura;27.0;Bourgogne-Franche-Comté;1530380.58
+2017.0;78.0;Yvelines;11.0;Île-de-France;1883559.1199999999
+2012.0;7.0;Ardèche;84.0;Auvergne-Rhône-Alpes;523681.01
+2012.0;51.0;Marne;44.0;Grand Est;1495870.45
+2012.0;63.0;Puy-de-Dôme;84.0;Auvergne-Rhône-Alpes;1395117.22
+2013.0;49.0;Maine-et-Loire;52.0;Pays de la Loire;1142715.99
+2014.0;17.0;Charente-Maritime;75.0;Nouvelle-Aquitaine;411079.5
+2014.0;37.0;Indre-et-Loire;24.0;Centre-Val de Loire;668626.29
+2014.0;67.0;Bas-Rhin;44.0;Grand Est;3972194.88
+2015.0;19.0;Corrèze;75.0;Nouvelle-Aquitaine;302189.04
+2015.0;43.0;Haute-Loire;84.0;Auvergne-Rhône-Alpes;639856.19
+2013.0;28.0;Eure-et-Loir;24.0;Centre-Val de Loire;479027.92
+2013.0;53.0;Mayenne;52.0;Pays de la Loire;939844.97
+2013.0;87.0;Haute-Vienne;75.0;Nouvelle-Aquitaine;437592.33
+2014.0;49.0;Maine-et-Loire;52.0;Pays de la Loire;1108831.1300000001
+2014.0;973.0;Guyane;3.0;Guyane;0.0
+2015.0;4.0;Alpes-de-Haute-Provence;93.0;Provence-Alpes-Côte d'Azur;200627.84
+2015.0;27.0;Eure;28.0;Normandie;1380042.01
+2015.0;79.0;Deux-Sèvres;75.0;Nouvelle-Aquitaine;798387.96
+2015.0;80.0;Somme;32.0;Hauts-de-France;1598283.54
+2016.0;24.0;Dordogne;75.0;Nouvelle-Aquitaine;503241.38
+2016.0;64.0;Pyrénées-Atlantiques;75.0;Nouvelle-Aquitaine;1154132.8
+2016.0;73.0;Savoie;84.0;Auvergne-Rhône-Alpes;4707215.73
+2016.0;86.0;Vienne;75.0;Nouvelle-Aquitaine;417390.77
+2016.0;93.0;Seine-Saint-Denis;11.0;Île-de-France;480181.55
+2017.0;21.0;Côte-d'Or;27.0;Bourgogne-Franche-Comté;709416.85
+2017.0;2B;Haute-Corse;94.0;Corse;57845.0
+2017.0;50.0;Manche;28.0;Normandie;1079711.25
+2017.0;73.0;Savoie;84.0;Auvergne-Rhône-Alpes;4782583.67
+2012.0;39.0;Jura;27.0;Bourgogne-Franche-Comté;1290609.92
+2012.0;59.0;Nord;32.0;Hauts-de-France;11648845.39
+2012.0;93.0;Seine-Saint-Denis;11.0;Île-de-France;572263.78
+2013.0;13.0;Bouches-du-Rhône;93.0;Provence-Alpes-Côte d'Azur;6839977.95
+2013.0;58.0;Nièvre;27.0;Bourgogne-Franche-Comté;336488.67
+2013.0;89.0;Yonne;27.0;Bourgogne-Franche-Comté;543332.83
+2013.0;972.0;Martinique;2.0;Martinique;0.0
+2014.0;58.0;Nièvre;27.0;Bourgogne-Franche-Comté;328601.57
+2014.0;72.0;Sarthe;52.0;Pays de la Loire;1177216.97
+2014.0;84.0;Vaucluse;93.0;Provence-Alpes-Côte d'Azur;690984.9400000001
+2014.0;974.0;La Réunion;4.0;La Réunion;0.0
+2015.0;37.0;Indre-et-Loire;24.0;Centre-Val de Loire;655425.95
+2015.0;58.0;Nièvre;27.0;Bourgogne-Franche-Comté;329074.37
+2015.0;971.0;Guadeloupe;1.0;Guadeloupe;0.0
+2016.0;8.0;Ardennes;44.0;Grand Est;1009367.06
+2016.0;11.0;Aude;76.0;Occitanie;272670.7
+2016.0;13.0;Bouches-du-Rhône;93.0;Provence-Alpes-Côte d'Azur;7255682.13
+2016.0;17.0;Charente-Maritime;75.0;Nouvelle-Aquitaine;412270.21
+2016.0;50.0;Manche;28.0;Normandie;1093782.83
+2016.0;58.0;Nièvre;27.0;Bourgogne-Franche-Comté;316891.28
+2016.0;71.0;Saône-et-Loire;27.0;Bourgogne-Franche-Comté;1264433.74
+2017.0;5.0;Hautes-Alpes;93.0;Provence-Alpes-Côte d'Azur;63482.51
+2017.0;9.0;Ariège;76.0;Occitanie;237332.82
+2017.0;23.0;Creuse;75.0;Nouvelle-Aquitaine;105082.90000000001
+2017.0;34.0;Hérault;76.0;Occitanie;427751.79
+2017.0;61.0;Orne;28.0;Normandie;633419.07
+2017.0;77.0;Seine-et-Marne;11.0;Île-de-France;1922619.55
+2017.0;95.0;Val-d'Oise;11.0;Île-de-France;552896.81
+2013.0;41.0;Loir-et-Cher;24.0;Centre-Val de Loire;614162.66
+2014.0;63.0;Puy-de-Dôme;84.0;Auvergne-Rhône-Alpes;1417131.51
+2014.0;79.0;Deux-Sèvres;75.0;Nouvelle-Aquitaine;203870.94999999998
+2014.0;85.0;Vendée;52.0;Pays de la Loire;1107605.41
+2015.0;6.0;Alpes-Maritimes;93.0;Provence-Alpes-Côte d'Azur;464949.75
+2015.0;36.0;Indre;24.0;Centre-Val de Loire;419056.32
+2015.0;41.0;Loir-et-Cher;24.0;Centre-Val de Loire;611476.1
+2015.0;94.0;Val-de-Marne;11.0;Île-de-France;745503.89
+2016.0;41.0;Loir-et-Cher;24.0;Centre-Val de Loire;622691.03
+2016.0;65.0;Hautes-Pyrénées;76.0;Occitanie;381411.58
+2016.0;81.0;Tarn;76.0;Occitanie;457737.95999999996
+2017.0;973.0;Guyane;3.0;Guyane;48357.0
+2012.0;4.0;Alpes-de-Haute-Provence;93.0;Provence-Alpes-Côte d'Azur;211085.84
+2012.0;34.0;Hérault;76.0;Occitanie;443001.27
+2012.0;46.0;Lot;76.0;Occitanie;190104.73
+2012.0;49.0;Maine-et-Loire;52.0;Pays de la Loire;1141726.08
+2013.0;4.0;Alpes-de-Haute-Provence;93.0;Provence-Alpes-Côte d'Azur;203617.15
+2013.0;46.0;Lot;76.0;Occitanie;198335.1
+2013.0;56.0;Morbihan;53.0;Bretagne;1214613.24
+2013.0;67.0;Bas-Rhin;44.0;Grand Est;3638561.02
+2013.0;88.0;Vosges;44.0;Grand Est;2110652.72
+2013.0;93.0;Seine-Saint-Denis;11.0;Île-de-France;552609.83
+2014.0;2.0;Aisne;32.0;Hauts-de-France;1085493.52
+2014.0;23.0;Creuse;75.0;Nouvelle-Aquitaine;103823.72
+2014.0;2A;Corse-du-Sud;94.0;Corse;0.0
+2014.0;68.0;Haut-Rhin;44.0;Grand Est;2244411.82
+2014.0;89.0;Yonne;27.0;Bourgogne-Franche-Comté;534732.6
+2015.0;62.0;Pas-de-Calais;32.0;Hauts-de-France;3212748.82
+2015.0;65.0;Hautes-Pyrénées;76.0;Occitanie;381658.84
+2015.0;76.0;Seine-Maritime;28.0;Normandie;5348976.04
+2015.0;92.0;Hauts-de-Seine;11.0;Île-de-France;894631.62
+2016.0;22.0;Côtes-d'Armor;53.0;Bretagne;861811.71
+2016.0;23.0;Creuse;75.0;Nouvelle-Aquitaine;105135.17
+2016.0;68.0;Haut-Rhin;44.0;Grand Est;2497725.71
+2016.0;95.0;Val-d'Oise;11.0;Île-de-France;559341.45
+2017.0;2A;Corse-du-Sud;94.0;Corse;67964.0
+2017.0;65.0;Hautes-Pyrénées;76.0;Occitanie;392541.12
+2017.0;85.0;Vendée;52.0;Pays de la Loire;1098828.1
+2012.0;3.0;Allier;84.0;Auvergne-Rhône-Alpes;607741.56
+2012.0;15.0;Cantal;84.0;Auvergne-Rhône-Alpes;141051.26
+2012.0;17.0;Charente-Maritime;75.0;Nouvelle-Aquitaine;411770.5
+2012.0;25.0;Doubs;27.0;Bourgogne-Franche-Comté;867795.62
+2012.0;73.0;Savoie;84.0;Auvergne-Rhône-Alpes;3651815.367
+2012.0;92.0;Hauts-de-Seine;11.0;Île-de-France;898711.67
+2013.0;25.0;Doubs;27.0;Bourgogne-Franche-Comté;900711.28
+2013.0;2B;Haute-Corse;94.0;Corse;0.0
+2013.0;71.0;Saône-et-Loire;27.0;Bourgogne-Franche-Comté;1234865.42
+2013.0;72.0;Sarthe;52.0;Pays de la Loire;1214497.57
+2013.0;92.0;Hauts-de-Seine;11.0;Île-de-France;935938.73
+2014.0;5.0;Hautes-Alpes;93.0;Provence-Alpes-Côte d'Azur;42475.5
+2014.0;15.0;Cantal;84.0;Auvergne-Rhône-Alpes;133954.82
+2014.0;30.0;Gard;76.0;Occitanie;1414085.71
+2014.0;35.0;Ille-et-Vilaine;53.0;Bretagne;1402627.23
+2014.0;43.0;Haute-Loire;84.0;Auvergne-Rhône-Alpes;617892.83
+2014.0;65.0;Hautes-Pyrénées;76.0;Occitanie;313977.12
+2015.0;1.0;Ain;84.0;Auvergne-Rhône-Alpes;1925579.97
+2015.0;45.0;Loiret;24.0;Centre-Val de Loire;1232091.79
+2015.0;59.0;Nord;32.0;Hauts-de-France;11351874.43
+2015.0;78.0;Yvelines;11.0;Île-de-France;1902571.67
+2015.0;86.0;Vienne;75.0;Nouvelle-Aquitaine;366118.45
+2016.0;26.0;Drôme;84.0;Auvergne-Rhône-Alpes;1311654.8900000001
+2016.0;51.0;Marne;44.0;Grand Est;1455119.0899999999
+2016.0;79.0;Deux-Sèvres;75.0;Nouvelle-Aquitaine;777967.6799999999
+2017.0;31.0;Haute-Garonne;76.0;Occitanie;1182599.86
+2017.0;40.0;Landes;75.0;Nouvelle-Aquitaine;1268478.26
+2017.0;64.0;Pyrénées-Atlantiques;75.0;Nouvelle-Aquitaine;1104325.7
+2012.0;62.0;Pas-de-Calais;32.0;Hauts-de-France;3880113.8
+2012.0;76.0;Seine-Maritime;28.0;Normandie;5048398.24
+2012.0;87.0;Haute-Vienne;75.0;Nouvelle-Aquitaine;438833.29
+2013.0;1.0;Ain;84.0;Auvergne-Rhône-Alpes;1959306.83
+2013.0;54.0;Meurthe-et-Moselle;44.0;Grand Est;2018251.59
+2013.0;66.0;Pyrénées-Orientales;76.0;Occitanie;298327.01
+2013.0;971.0;Guadeloupe;1.0;Guadeloupe;0.0
+2015.0;82.0;Tarn-et-Garonne;76.0;Occitanie;163149.12
+2016.0;9.0;Ariège;76.0;Occitanie;246433.94
+2016.0;28.0;Eure-et-Loir;24.0;Centre-Val de Loire;672269.07
+2016.0;2B;Haute-Corse;94.0;Corse;0.0
+2016.0;62.0;Pas-de-Calais;32.0;Hauts-de-France;3174331.05
+2016.0;67.0;Bas-Rhin;44.0;Grand Est;4034924.22
+2016.0;76.0;Seine-Maritime;28.0;Normandie;5091509.05
+2016.0;78.0;Yvelines;11.0;Île-de-France;1895367.69
+2017.0;53.0;Mayenne;52.0;Pays de la Loire;909514.86
+2017.0;87.0;Haute-Vienne;75.0;Nouvelle-Aquitaine;450241.33999999997
+2017.0;90.0;Territoire de Belfort;27.0;Bourgogne-Franche-Comté;224779.8
+2017.0;972.0;Martinique;2.0;Martinique;144919.0
+2012.0;16.0;Charente;75.0;Nouvelle-Aquitaine;861525.27
+2012.0;26.0;Drôme;84.0;Auvergne-Rhône-Alpes;3267118.4299999997
+2012.0;30.0;Gard;76.0;Occitanie;1393647.75
+2012.0;41.0;Loir-et-Cher;24.0;Centre-Val de Loire;621356.9400000001
+2012.0;48.0;Lozère;76.0;Occitanie;83132.66
+2012.0;66.0;Pyrénées-Orientales;76.0;Occitanie;299408.67
+2012.0;80.0;Somme;32.0;Hauts-de-France;1572935.08
+2012.0;91.0;Essonne;11.0;Île-de-France;864269.66
+2013.0;24.0;Dordogne;75.0;Nouvelle-Aquitaine;657634.45
+2013.0;27.0;Eure;28.0;Normandie;1359114.98
+2013.0;45.0;Loiret;24.0;Centre-Val de Loire;1267080.98
+2013.0;90.0;Territoire de Belfort;27.0;Bourgogne-Franche-Comté;228189.59
+2014.0;2B;Haute-Corse;94.0;Corse;0.0
+2014.0;71.0;Saône-et-Loire;27.0;Bourgogne-Franche-Comté;1268836.53
+2014.0;80.0;Somme;32.0;Hauts-de-France;1535731.35
+2014.0;94.0;Val-de-Marne;11.0;Île-de-France;720857.71
+2015.0;21.0;Côte-d'Or;27.0;Bourgogne-Franche-Comté;711220.53
+2015.0;46.0;Lot;76.0;Occitanie;206454.91999999998
+2015.0;972.0;Martinique;2.0;Martinique;0.0
+2016.0;14.0;Calvados;28.0;Normandie;877790.85
+2016.0;39.0;Jura;27.0;Bourgogne-Franche-Comté;1421228.35
+2016.0;69.0;Rhône;84.0;Auvergne-Rhône-Alpes;2717471.06
+2016.0;976.0;Mayotte;6.0;Mayotte;70891.99
+2017.0;36.0;Indre;24.0;Centre-Val de Loire;389959.04
+2017.0;38.0;Isère;84.0;Auvergne-Rhône-Alpes;3979113.52
+2017.0;84.0;Vaucluse;93.0;Provence-Alpes-Côte d'Azur;686105.33
+2012.0;56.0;Morbihan;53.0;Bretagne;1196161.55
+2012.0;61.0;Orne;28.0;Normandie;662651.22
+2012.0;65.0;Hautes-Pyrénées;76.0;Occitanie;325906.97
+2012.0;85.0;Vendée;52.0;Pays de la Loire;1116258.89
+2013.0;12.0;Aveyron;76.0;Occitanie;356614.45
+2017.0;81.0;Tarn;76.0;Occitanie;456495.64
+2012.0;78.0;Yvelines;11.0;Île-de-France;2011775.89
+2012.0;79.0;Deux-Sèvres;75.0;Nouvelle-Aquitaine;220416.33
+2012.0;95.0;Val-d'Oise;11.0;Île-de-France;582965.75
+2013.0;29.0;Finistère;53.0;Bretagne;1185701.07
+2013.0;63.0;Puy-de-Dôme;84.0;Auvergne-Rhône-Alpes;1418954.84
+2013.0;74.0;Haute-Savoie;84.0;Auvergne-Rhône-Alpes;1262283.69
+2014.0;19.0;Corrèze;75.0;Nouvelle-Aquitaine;291404.96
+2014.0;27.0;Eure;28.0;Normandie;1360841.19
+2014.0;69.0;Rhône;84.0;Auvergne-Rhône-Alpes;2741940.83
+2014.0;93.0;Seine-Saint-Denis;11.0;Île-de-France;470386.97000000003
+2015.0;39.0;Jura;27.0;Bourgogne-Franche-Comté;1482563.76
+2015.0;40.0;Landes;75.0;Nouvelle-Aquitaine;1336503.23
+2015.0;66.0;Pyrénées-Orientales;76.0;Occitanie;217866.97999999998
+2015.0;95.0;Val-d'Oise;11.0;Île-de-France;566542.51
+2016.0;6.0;Alpes-Maritimes;93.0;Provence-Alpes-Côte d'Azur;473910.26
+2016.0;75.0;Paris;11.0;Île-de-France;442625.29
+2016.0;94.0;Val-de-Marne;11.0;Île-de-France;719225.45
+2017.0;2.0;Aisne;32.0;Hauts-de-France;1021764.99
+2017.0;10.0;Aube;44.0;Grand Est;578670.45
+2017.0;12.0;Aveyron;76.0;Occitanie;327851.75
+2017.0;19.0;Corrèze;75.0;Nouvelle-Aquitaine;310774.54
+2017.0;55.0;Meuse;44.0;Grand Est;508188.94
+2013.0;2A;Corse-du-Sud;94.0;Corse;0.0
+2013.0;61.0;Orne;28.0;Normandie;665678.08
+2013.0;76.0;Seine-Maritime;28.0;Normandie;5210859.64
+2013.0;86.0;Vienne;75.0;Nouvelle-Aquitaine;389507.72000000003
+2014.0;12.0;Aveyron;76.0;Occitanie;363080.14
+2014.0;64.0;Pyrénées-Atlantiques;75.0;Nouvelle-Aquitaine;1130919.56
+2015.0;8.0;Ardennes;44.0;Grand Est;997604.93
+2015.0;16.0;Charente;75.0;Nouvelle-Aquitaine;789751.21
+2015.0;42.0;Loire;84.0;Auvergne-Rhône-Alpes;1351069.51
+2015.0;84.0;Vaucluse;93.0;Provence-Alpes-Côte d'Azur;672233.55
+2016.0;31.0;Haute-Garonne;76.0;Occitanie;1131516.57
+2016.0;38.0;Isère;84.0;Auvergne-Rhône-Alpes;4025010.28
+2012.0;19.0;Corrèze;75.0;Nouvelle-Aquitaine;285863.85
+2012.0;55.0;Meuse;44.0;Grand Est;507876.42
+2012.0;60.0;Oise;32.0;Hauts-de-France;1537803.83
+2012.0;82.0;Tarn-et-Garonne;76.0;Occitanie;164730.48
+2013.0;39.0;Jura;27.0;Bourgogne-Franche-Comté;1375144.83
+2014.0;57.0;Moselle;44.0;Grand Est;3117354.12
+2014.0;95.0;Val-d'Oise;11.0;Île-de-France;561370.47
+2016.0;12.0;Aveyron;76.0;Occitanie;360416.08
+2016.0;56.0;Morbihan;53.0;Bretagne;1226882.33
+2016.0;84.0;Vaucluse;93.0;Provence-Alpes-Côte d'Azur;679906.38
+2012.0;8.0;Ardennes;44.0;Grand Est;1023558.54
+2012.0;68.0;Haut-Rhin;44.0;Grand Est;2136878.9
+2012.0;77.0;Seine-et-Marne;11.0;Île-de-France;1991778.35
+2013.0;5.0;Hautes-Alpes;93.0;Provence-Alpes-Côte d'Azur;40102.34
+2012.0;14.0;Calvados;28.0;Normandie;883695.7
+2012.0;64.0;Pyrénées-Atlantiques;75.0;Nouvelle-Aquitaine;1283706.24
+2013.0;48.0;Lozère;76.0;Occitanie;89496.53
+2013.0;64.0;Pyrénées-Atlantiques;75.0;Nouvelle-Aquitaine;1253781.5
+2013.0;84.0;Vaucluse;93.0;Provence-Alpes-Côte d'Azur;719452.09
+2013.0;95.0;Val-d'Oise;11.0;Île-de-France;593023.91
+2014.0;14.0;Calvados;28.0;Normandie;842784.11
+2014.0;16.0;Charente;75.0;Nouvelle-Aquitaine;790828.49
+2014.0;46.0;Lot;76.0;Occitanie;196476.5
+2014.0;88.0;Vosges;44.0;Grand Est;1989556.84
+2015.0;11.0;Aude;76.0;Occitanie;270648.96
+2015.0;14.0;Calvados;28.0;Normandie;868435.47
+2012.0;81.0;Tarn;76.0;Occitanie;459604.52
+2013.0;40.0;Landes;75.0;Nouvelle-Aquitaine;1389768.22
+2013.0;60.0;Oise;32.0;Hauts-de-France;1487605.23
+2013.0;973.0;Guyane;3.0;Guyane;0.0
+2015.0;52.0;Haute-Marne;44.0;Grand Est;548529.09
+2015.0;61.0;Orne;28.0;Normandie;663809.0
+2015.0;90.0;Territoire de Belfort;27.0;Bourgogne-Franche-Comté;230340.88
+2016.0;48.0;Lozère;76.0;Occitanie;97627.49
+2017.0;54.0;Meurthe-et-Moselle;44.0;Grand Est;1942763.8399999999
+2017.0;71.0;Saône-et-Loire;27.0;Bourgogne-Franche-Comté;1196503.92
+2012.0;50.0;Manche;28.0;Normandie;1121020.9
+2012.0;57.0;Moselle;44.0;Grand Est;3156284.9
+2014.0;55.0;Meuse;44.0;Grand Est;511566.09
+2014.0;90.0;Territoire de Belfort;27.0;Bourgogne-Franche-Comté;226319.89
+2016.0;83.0;Var;93.0;Provence-Alpes-Côte d'Azur;366679.36
+2017.0;22.0;Côtes-d'Armor;53.0;Bretagne;857943.3099999999
+2012.0;12.0;Aveyron;76.0;Occitanie;348348.23
+2012.0;54.0;Meurthe-et-Moselle;44.0;Grand Est;1995851.3800000001
+2012.0;75.0;Paris;11.0;Île-de-France;375621.81
+2013.0;2.0;Aisne;32.0;Hauts-de-France;1145310.17
+2013.0;10.0;Aube;44.0;Grand Est;652354.17
+2013.0;15.0;Cantal;84.0;Auvergne-Rhône-Alpes;137142.12
+2016.0;971.0;Guadeloupe;1.0;Guadeloupe;0.0
+2016.0;974.0;La Réunion;4.0;La Réunion;0.0
+2017.0;42.0;Loire;84.0;Auvergne-Rhône-Alpes;1352416.38
+2017.0;57.0;Moselle;44.0;Grand Est;3535527.71
+2017.0;94.0;Val-de-Marne;11.0;Île-de-France;738385.49
+2017.0;974.0;La Réunion;4.0;La Réunion;457261.0
+2017.0;976.0;Mayotte;6.0;Mayotte;71252.9
+2013.0;35.0;Ille-et-Vilaine;53.0;Bretagne;1382667.52
+2013.0;75.0;Paris;11.0;Île-de-France;390429.10000000003
+2013.0;82.0;Tarn-et-Garonne;76.0;Occitanie;157177.04
+2014.0;33.0;Gironde;75.0;Nouvelle-Aquitaine;1451599.89
+2014.0;86.0;Vienne;75.0;Nouvelle-Aquitaine;372075.83999999997
+2015.0;5.0;Hautes-Alpes;93.0;Provence-Alpes-Côte d'Azur;42726.78
+2015.0;9.0;Ariège;76.0;Occitanie;247620.33
+2015.0;22.0;Côtes-d'Armor;53.0;Bretagne;866074.95
+2015.0;2A;Corse-du-Sud;94.0;Corse;0.0
+2015.0;32.0;Gers;76.0;Occitanie;144081.03
+2015.0;71.0;Saône-et-Loire;27.0;Bourgogne-Franche-Comté;1264841.93
+2016.0;1.0;Ain;84.0;Auvergne-Rhône-Alpes;2048660.55
+2016.0;46.0;Lot;76.0;Occitanie;206289.01
+2016.0;60.0;Oise;32.0;Hauts-de-France;1535583.58
+2016.0;87.0;Haute-Vienne;75.0;Nouvelle-Aquitaine;425568.25
+2016.0;92.0;Hauts-de-Seine;11.0;Île-de-France;895747.3200000001
+2017.0;33.0;Gironde;75.0;Nouvelle-Aquitaine;1471190.76
+2017.0;74.0;Haute-Savoie;84.0;Auvergne-Rhône-Alpes;1437072.3499999999
+2017.0;82.0;Tarn-et-Garonne;76.0;Occitanie;168062.29
+2017.0;83.0;Var;93.0;Provence-Alpes-Côte d'Azur;371415.27
+2013.0;94.0;Val-de-Marne;11.0;Île-de-France;720975.17
+2014.0;1.0;Ain;84.0;Auvergne-Rhône-Alpes;1947632.54
+2014.0;22.0;Côtes-d'Armor;53.0;Bretagne;854283.15
+2014.0;40.0;Landes;75.0;Nouvelle-Aquitaine;1400126.88
+2014.0;52.0;Haute-Marne;44.0;Grand Est;560068.02
+2014.0;74.0;Haute-Savoie;84.0;Auvergne-Rhône-Alpes;1283506.33
+2014.0;76.0;Seine-Maritime;28.0;Normandie;5262361.13
+2015.0;12.0;Aveyron;76.0;Occitanie;364642.49
+2015.0;44.0;Loire-Atlantique;52.0;Pays de la Loire;2019763.07
+2016.0;16.0;Charente;75.0;Nouvelle-Aquitaine;781574.34
+2016.0;44.0;Loire-Atlantique;52.0;Pays de la Loire;2084023.7
+2016.0;59.0;Nord;32.0;Hauts-de-France;11367827.13
+2016.0;63.0;Puy-de-Dôme;84.0;Auvergne-Rhône-Alpes;1458513.47
+2017.0;43.0;Haute-Loire;84.0;Auvergne-Rhône-Alpes;662315.83
+2012.0;5.0;Hautes-Alpes;93.0;Provence-Alpes-Côte d'Azur;44941.67
+2012.0;58.0;Nièvre;27.0;Bourgogne-Franche-Comté;324675.32
+2013.0;11.0;Aude;76.0;Occitanie;272145.03
+2013.0;23.0;Creuse;75.0;Nouvelle-Aquitaine;101298.24
+2013.0;31.0;Haute-Garonne;76.0;Occitanie;1114149.22
+2013.0;51.0;Marne;44.0;Grand Est;1517479.61
+2013.0;70.0;Haute-Saône;27.0;Bourgogne-Franche-Comté;439661.1
+2014.0;26.0;Drôme;84.0;Auvergne-Rhône-Alpes;1446954.37
+2014.0;54.0;Meurthe-et-Moselle;44.0;Grand Est;1956136.07
+2014.0;61.0;Orne;28.0;Normandie;654360.02
+2014.0;77.0;Seine-et-Marne;11.0;Île-de-France;1974205.21
+2014.0;81.0;Tarn;76.0;Occitanie;442341.86
+2015.0;30.0;Gard;76.0;Occitanie;1430281.86
+2015.0;31.0;Haute-Garonne;76.0;Occitanie;1108358.41
+2015.0;35.0;Ille-et-Vilaine;53.0;Bretagne;1440738.49
+2015.0;63.0;Puy-de-Dôme;84.0;Auvergne-Rhône-Alpes;1435417.44
+2015.0;85.0;Vendée;52.0;Pays de la Loire;1136655.45
+2016.0;27.0;Eure;28.0;Normandie;1344561.86
+2016.0;35.0;Ille-et-Vilaine;53.0;Bretagne;1490057.31
+2016.0;66.0;Pyrénées-Orientales;76.0;Occitanie;210554.33
+2016.0;77.0;Seine-et-Marne;11.0;Île-de-France;1959288.34
+2016.0;91.0;Essonne;11.0;Île-de-France;950202.48
+2017.0;6.0;Alpes-Maritimes;93.0;Provence-Alpes-Côte d'Azur;474036.34
+2017.0;28.0;Eure-et-Loir;24.0;Centre-Val de Loire;584379.61
+2017.0;44.0;Loire-Atlantique;52.0;Pays de la Loire;2100970.82
+2017.0;45.0;Loiret;24.0;Centre-Val de Loire;1296400.63
+2017.0;89.0;Yonne;27.0;Bourgogne-Franche-Comté;533633.9
+2017.0;93.0;Seine-Saint-Denis;11.0;Île-de-France;512349.77
+2013.0;44.0;Loire-Atlantique;52.0;Pays de la Loire;2006734.3
+2014.0;7.0;Ardèche;84.0;Auvergne-Rhône-Alpes;541924.35
+2014.0;10.0;Aube;44.0;Grand Est;650228.86
+2014.0;18.0;Cher;24.0;Centre-Val de Loire;364541.62
+2014.0;24.0;Dordogne;75.0;Nouvelle-Aquitaine;636154.27
+2014.0;34.0;Hérault;76.0;Occitanie;434015.64
+2014.0;47.0;Lot-et-Garonne;75.0;Nouvelle-Aquitaine;359833.46
+2014.0;53.0;Mayenne;52.0;Pays de la Loire;934365.6
+2015.0;13.0;Bouches-du-Rhône;93.0;Provence-Alpes-Côte d'Azur;6952660.59
+2015.0;49.0;Maine-et-Loire;52.0;Pays de la Loire;1135980.96
+2015.0;69.0;Rhône;84.0;Auvergne-Rhône-Alpes;2710639.83
+2016.0;5.0;Hautes-Alpes;93.0;Provence-Alpes-Côte d'Azur;45162.02
+2016.0;10.0;Aube;44.0;Grand Est;640842.84
+2016.0;15.0;Cantal;84.0;Auvergne-Rhône-Alpes;134851.22
+2017.0;35.0;Ille-et-Vilaine;53.0;Bretagne;1526944.09
+2017.0;59.0;Nord;32.0;Hauts-de-France;11483746.48
+2017.0;60.0;Oise;32.0;Hauts-de-France;1527913.51
+2017.0;91.0;Essonne;11.0;Île-de-France;994141.25
+2012.0;13.0;Bouches-du-Rhône;93.0;Provence-Alpes-Côte d'Azur;6750394.98
+2012.0;2A;Corse-du-Sud;94.0;Corse;0.0
+2012.0;32.0;Gers;76.0;Occitanie;150093.7
+2012.0;44.0;Loire-Atlantique;52.0;Pays de la Loire;2050884.6
+2012.0;53.0;Mayenne;52.0;Pays de la Loire;888220.51
+2012.0;69.0;Rhône;84.0;Auvergne-Rhône-Alpes;2797714.0
+2012.0;972.0;Martinique;2.0;Martinique;0.0
+2013.0;17.0;Charente-Maritime;75.0;Nouvelle-Aquitaine;423325.51
+2013.0;57.0;Moselle;44.0;Grand Est;3164533.44
+2013.0;78.0;Yvelines;11.0;Île-de-France;1973981.03
+2013.0;91.0;Essonne;11.0;Île-de-France;907105.9500000001
+2014.0;13.0;Bouches-du-Rhône;93.0;Provence-Alpes-Côte d'Azur;7057578.34
+2014.0;39.0;Jura;27.0;Bourgogne-Franche-Comté;1479431.41
+2014.0;50.0;Manche;28.0;Normandie;1098787.69
+2014.0;51.0;Marne;44.0;Grand Est;1498735.74
+2014.0;82.0;Tarn-et-Garonne;76.0;Occitanie;156567.65
+2015.0;3.0;Allier;84.0;Auvergne-Rhône-Alpes;553179.15
+2015.0;26.0;Drôme;84.0;Auvergne-Rhône-Alpes;1426370.32
+2015.0;47.0;Lot-et-Garonne;75.0;Nouvelle-Aquitaine;363018.2
+2015.0;57.0;Moselle;44.0;Grand Est;3540632.48
+2016.0;29.0;Finistère;53.0;Bretagne;1166148.62
+2016.0;82.0;Tarn-et-Garonne;76.0;Occitanie;166897.06
+2017.0;16.0;Charente;75.0;Nouvelle-Aquitaine;707783.97
+2017.0;24.0;Dordogne;75.0;Nouvelle-Aquitaine;513090.49
+2017.0;30.0;Gard;76.0;Occitanie;1557871.2
+2017.0;37.0;Indre-et-Loire;24.0;Centre-Val de Loire;633361.01
+2012.0;29.0;Finistère;53.0;Bretagne;1187504.21
+2013.0;37.0;Indre-et-Loire;24.0;Centre-Val de Loire;693363.32
+2013.0;47.0;Lot-et-Garonne;75.0;Nouvelle-Aquitaine;367960.08
+2014.0;6.0;Alpes-Maritimes;93.0;Provence-Alpes-Côte d'Azur;454654.76
+2014.0;41.0;Loir-et-Cher;24.0;Centre-Val de Loire;599567.68
+2014.0;42.0;Loire;84.0;Auvergne-Rhône-Alpes;1339915.51
+2015.0;50.0;Manche;28.0;Normandie;1092555.92
+2015.0;73.0;Savoie;84.0;Auvergne-Rhône-Alpes;4453626.036
+2015.0;93.0;Seine-Saint-Denis;11.0;Île-de-France;471425.16
+2017.0;56.0;Morbihan;53.0;Bretagne;1227896.14
+2017.0;70.0;Haute-Saône;27.0;Bourgogne-Franche-Comté;399953.46
+2017.0;75.0;Paris;11.0;Île-de-France;430658.68
+2012.0;22.0;Côtes-d'Armor;53.0;Bretagne;833939.13
+2012.0;28.0;Eure-et-Loir;24.0;Centre-Val de Loire;463833.27
+2013.0;7.0;Ardèche;84.0;Auvergne-Rhône-Alpes;554219.98
+2013.0;16.0;Charente;75.0;Nouvelle-Aquitaine;827558.53
+2013.0;18.0;Cher;24.0;Centre-Val de Loire;373455.08
+2013.0;69.0;Rhône;84.0;Auvergne-Rhône-Alpes;2774239.79
+2013.0;73.0;Savoie;84.0;Auvergne-Rhône-Alpes;3639820.814
+2014.0;3.0;Allier;84.0;Auvergne-Rhône-Alpes;548701.87
+2014.0;8.0;Ardennes;44.0;Grand Est;979274.52
+2014.0;25.0;Doubs;27.0;Bourgogne-Franche-Comté;925802.2
+2014.0;78.0;Yvelines;11.0;Île-de-France;1919951.69
+2014.0;91.0;Essonne;11.0;Île-de-France;884551.51
+2014.0;971.0;Guadeloupe;1.0;Guadeloupe;0.0
+2015.0;7.0;Ardèche;84.0;Auvergne-Rhône-Alpes;536930.23
+2016.0;33.0;Gironde;75.0;Nouvelle-Aquitaine;1461394.26
+2016.0;37.0;Indre-et-Loire;24.0;Centre-Val de Loire;653738.43
+2016.0;90.0;Territoire de Belfort;27.0;Bourgogne-Franche-Comté;233703.73
+2017.0;67.0;Bas-Rhin;44.0;Grand Est;2549502.94
+2012.0;6.0;Alpes-Maritimes;93.0;Provence-Alpes-Côte d'Azur;473935.95
+2012.0;21.0;Côte-d'Or;27.0;Bourgogne-Franche-Comté;725829.16
+2012.0;37.0;Indre-et-Loire;24.0;Centre-Val de Loire;653347.05
+2012.0;70.0;Haute-Saône;27.0;Bourgogne-Franche-Comté;436421.83
+2012.0;71.0;Saône-et-Loire;27.0;Bourgogne-Franche-Comté;1275623.75
+2012.0;90.0;Territoire de Belfort;27.0;Bourgogne-Franche-Comté;233525.36
+2012.0;973.0;Guyane;3.0;Guyane;0.0
+2013.0;9.0;Ariège;76.0;Occitanie;264832.28
+2013.0;22.0;Côtes-d'Armor;53.0;Bretagne;844551.93
+2014.0;9.0;Ariège;76.0;Occitanie;260671.52000000002
+2014.0;48.0;Lozère;76.0;Occitanie;99713.03
+2014.0;60.0;Oise;32.0;Hauts-de-France;1466746.47
+2014.0;972.0;Martinique;2.0;Martinique;0.0
+2015.0;34.0;Hérault;76.0;Occitanie;433550.89
+2015.0;51.0;Marne;44.0;Grand Est;1474941.02
+2015.0;55.0;Meuse;44.0;Grand Est;522118.02
+2015.0;72.0;Sarthe;52.0;Pays de la Loire;1192209.49
+2016.0;7.0;Ardèche;84.0;Auvergne-Rhône-Alpes;547781.08
+2016.0;32.0;Gers;76.0;Occitanie;146392.72
+2016.0;52.0;Haute-Marne;44.0;Grand Est;559382.55
+2016.0;74.0;Haute-Savoie;84.0;Auvergne-Rhône-Alpes;1370168.58
+2016.0;85.0;Vendée;52.0;Pays de la Loire;1166929.15
+2016.0;972.0;Martinique;2.0;Martinique;0.0
+2017.0;62.0;Pas-de-Calais;32.0;Hauts-de-France;3288252.52
+2017.0;72.0;Sarthe;52.0;Pays de la Loire;1251707.74
+2017.0;76.0;Seine-Maritime;28.0;Normandie;5148346.84
+2017.0;86.0;Vienne;75.0;Nouvelle-Aquitaine;520112.4
+2017.0;971.0;Guadeloupe;1.0;Guadeloupe;125833.0
+2012.0;67.0;Bas-Rhin;44.0;Grand Est;2023399.09
+2012.0;74.0;Haute-Savoie;84.0;Auvergne-Rhône-Alpes;1159642.71
+2012.0;83.0;Var;93.0;Provence-Alpes-Côte d'Azur;351841.04
+2012.0;94.0;Val-de-Marne;11.0;Île-de-France;698832.97
+2013.0;3.0;Allier;84.0;Auvergne-Rhône-Alpes;586391.15
+2013.0;30.0;Gard;76.0;Occitanie;1314819.97
+2013.0;38.0;Isère;84.0;Auvergne-Rhône-Alpes;3901569.41
+2013.0;81.0;Tarn;76.0;Occitanie;452535.92
+2014.0;32.0;Gers;76.0;Occitanie;134685.41
+2014.0;87.0;Haute-Vienne;75.0;Nouvelle-Aquitaine;422088.29
+2015.0;67.0;Bas-Rhin;44.0;Grand Est;3999055.4
+2015.0;81.0;Tarn;76.0;Occitanie;453040.1
+2015.0;973.0;Guyane;3.0;Guyane;0.0
+2016.0;2A;Corse-du-Sud;94.0;Corse;0.0
+2016.0;54.0;Meurthe-et-Moselle;44.0;Grand Est;1961820.11
+2017.0;13.0;Bouches-du-Rhône;93.0;Provence-Alpes-Côte d'Azur;6635647.2299999995
+2017.0;17.0;Charente-Maritime;75.0;Nouvelle-Aquitaine;408788.66000000003
+2012.0;1.0;Ain;84.0;Auvergne-Rhône-Alpes;1960069.91
+2012.0;18.0;Cher;24.0;Centre-Val de Loire;369084.17
+2012.0;40.0;Landes;75.0;Nouvelle-Aquitaine;1565133.74
+2012.0;43.0;Haute-Loire;84.0;Auvergne-Rhône-Alpes;613963.0700000001
+2012.0;72.0;Sarthe;52.0;Pays de la Loire;1225497.53
+2013.0;21.0;Côte-d'Or;27.0;Bourgogne-Franche-Comté;718187.05
+2013.0;42.0;Loire;84.0;Auvergne-Rhône-Alpes;1360643.55
+2013.0;62.0;Pas-de-Calais;32.0;Hauts-de-France;3735085.87
+2013.0;77.0;Seine-et-Marne;11.0;Île-de-France;2012360.51
+2014.0;70.0;Haute-Saône;27.0;Bourgogne-Franche-Comté;426609.15
+2015.0;24.0;Dordogne;75.0;Nouvelle-Aquitaine;472655.02999999997
+2015.0;53.0;Mayenne;52.0;Pays de la Loire;917633.58
+2015.0;68.0;Haut-Rhin;44.0;Grand Est;2292365.47
+2015.0;91.0;Essonne;11.0;Île-de-France;947493.01
+2016.0;19.0;Corrèze;75.0;Nouvelle-Aquitaine;313793.27
+2016.0;30.0;Gard;76.0;Occitanie;1542628.39
+2016.0;40.0;Landes;75.0;Nouvelle-Aquitaine;1335326.65
+2016.0;49.0;Maine-et-Loire;52.0;Pays de la Loire;1150546.59
+2017.0;7.0;Ardèche;84.0;Auvergne-Rhône-Alpes;568571.38
+2017.0;32.0;Gers;76.0;Occitanie;141813.32
+2017.0;52.0;Haute-Marne;44.0;Grand Est;523661.74
+2017.0;63.0;Puy-de-Dôme;84.0;Auvergne-Rhône-Alpes;1461486.36
+2017.0;79.0;Deux-Sèvres;75.0;Nouvelle-Aquitaine;815456.52
+2017.0;80.0;Somme;32.0;Hauts-de-France;1407295.32
+2017.0;92.0;Hauts-de-Seine;11.0;Île-de-France;918135.18
+2012.0;11.0;Aude;76.0;Occitanie;278846.74
+2012.0;24.0;Dordogne;75.0;Nouvelle-Aquitaine;695447.4199999999
+2012.0;2B;Haute-Corse;94.0;Corse;0.0
+2012.0;31.0;Haute-Garonne;76.0;Occitanie;1044588.9
+2013.0;32.0;Gers;76.0;Occitanie;147852.2
+2014.0;38.0;Isère;84.0;Auvergne-Rhône-Alpes;3945158.02
+2014.0;45.0;Loiret;24.0;Centre-Val de Loire;1265034.96
+2014.0;62.0;Pas-de-Calais;32.0;Hauts-de-France;3311850.23
+2014.0;73.0;Savoie;84.0;Auvergne-Rhône-Alpes;3939512.91
+2014.0;75.0;Paris;11.0;Île-de-France;376182.2
+2015.0;10.0;Aube;44.0;Grand Est;644629.08
+2015.0;17.0;Charente-Maritime;75.0;Nouvelle-Aquitaine;414917.9
+2015.0;23.0;Creuse;75.0;Nouvelle-Aquitaine;104134.12
+2015.0;48.0;Lozère;76.0;Occitanie;114516.18
+2015.0;77.0;Seine-et-Marne;11.0;Île-de-France;1984298.33
+2015.0;83.0;Var;93.0;Provence-Alpes-Côte d'Azur;350972.33
+2015.0;87.0;Haute-Vienne;75.0;Nouvelle-Aquitaine;439579.95
+2015.0;976.0;Mayotte;6.0;Mayotte;67702.46
+2016.0;25.0;Doubs;27.0;Bourgogne-Franche-Comté;965938.87
+2016.0;45.0;Loiret;24.0;Centre-Val de Loire;1305604.56
+2016.0;80.0;Somme;32.0;Hauts-de-France;1547912.31
+2016.0;89.0;Yonne;27.0;Bourgogne-Franche-Comté;542750.96
+2017.0;26.0;Drôme;84.0;Auvergne-Rhône-Alpes;1321114.72
+2017.0;27.0;Eure;28.0;Normandie;1301761.3
+2017.0;58.0;Nièvre;27.0;Bourgogne-Franche-Comté;313559.17
+2017.0;88.0;Vosges;44.0;Grand Est;1864342.3199999998
+2012.0;2.0;Aisne;32.0;Hauts-de-France;1149343.94
+2012.0;23.0;Creuse;75.0;Nouvelle-Aquitaine;99331.1
+2012.0;27.0;Eure;28.0;Normandie;1315107.93
+2012.0;42.0;Loire;84.0;Auvergne-Rhône-Alpes;1368897.78
+2012.0;974.0;La Réunion;4.0;La Réunion;0.0
+2013.0;19.0;Corrèze;75.0;Nouvelle-Aquitaine;290084.68
+2013.0;34.0;Hérault;76.0;Occitanie;439515.52999999997
+2013.0;43.0;Haute-Loire;84.0;Auvergne-Rhône-Alpes;613167.86
+2013.0;55.0;Meuse;44.0;Grand Est;511163.42
+2013.0;80.0;Somme;32.0;Hauts-de-France;1624141.8
+2013.0;85.0;Vendée;52.0;Pays de la Loire;1118707.96
+2014.0;4.0;Alpes-de-Haute-Provence;93.0;Provence-Alpes-Côte d'Azur;202418.34
+2014.0;44.0;Loire-Atlantique;52.0;Pays de la Loire;2071948.68
+2015.0;25.0;Doubs;27.0;Bourgogne-Franche-Comté;957121.34
+2015.0;33.0;Gironde;75.0;Nouvelle-Aquitaine;1429098.78
+2015.0;56.0;Morbihan;53.0;Bretagne;1233800.31
+2015.0;88.0;Vosges;44.0;Grand Est;1906374.44
+2016.0;34.0;Hérault;76.0;Occitanie;414016.95
+2016.0;70.0;Haute-Saône;27.0;Bourgogne-Franche-Comté;432713.57
+2016.0;88.0;Vosges;44.0;Grand Est;2022931.4100000001
+2017.0;15.0;Cantal;84.0;Auvergne-Rhône-Alpes;139314.04
+2017.0;47.0;Lot-et-Garonne;75.0;Nouvelle-Aquitaine;375409.45
+2017.0;69.0;Rhône;84.0;Auvergne-Rhône-Alpes;2680270.85
+2012.0;33.0;Gironde;75.0;Nouvelle-Aquitaine;1373669.92
+2012.0;36.0;Indre;24.0;Centre-Val de Loire;402218.35000000003
+2014.0;59.0;Nord;32.0;Hauts-de-France;11635326.83
+2014.0;66.0;Pyrénées-Orientales;76.0;Occitanie;729264.38
+2014.0;83.0;Var;93.0;Provence-Alpes-Côte d'Azur;356794.45
+2014.0;92.0;Hauts-de-Seine;11.0;Île-de-France;913878.86
+2015.0;60.0;Oise;32.0;Hauts-de-France;1508546.24
+2015.0;70.0;Haute-Saône;27.0;Bourgogne-Franche-Comté;429494.07
+2015.0;74.0;Haute-Savoie;84.0;Auvergne-Rhône-Alpes;1301475.42
+2012.0;52.0;Haute-Marne;44.0;Grand Est;555954.14
+2012.0;89.0;Yonne;27.0;Bourgogne-Franche-Comté;556796.85
+2013.0;14.0;Calvados;28.0;Normandie;860839.49
+2013.0;26.0;Drôme;84.0;Auvergne-Rhône-Alpes;1398293.85
+2013.0;79.0;Deux-Sèvres;75.0;Nouvelle-Aquitaine;217244.23
+2015.0;15.0;Cantal;84.0;Auvergne-Rhône-Alpes;132858.1
+2015.0;18.0;Cher;24.0;Centre-Val de Loire;363017.57
+2015.0;54.0;Meurthe-et-Moselle;44.0;Grand Est;1982622.6300000001
+2016.0;2.0;Aisne;32.0;Hauts-de-France;1073883.25
+2016.0;18.0;Cher;24.0;Centre-Val de Loire;371310.93
+2016.0;21.0;Côte-d'Or;27.0;Bourgogne-Franche-Comté;702928.6
+2016.0;53.0;Mayenne;52.0;Pays de la Loire;918960.66
+2017.0;66.0;Pyrénées-Orientales;76.0;Occitanie;215097.03
+2024.0;976.0;Mayotte;6.0;Mayotte;0.0
+2020.0;63.0;Puy-de-Dôme;84.0;Auvergne-Rhône-Alpes;1106367.32295
+2024.0;28.0;Eure-et-Loir;24.0;Centre-Val de Loire;556944.82
+2019.0;29.0;Finistère;53.0;Bretagne;1055343.89944
+2018.0;31.0;Haute-Garonne;76.0;Occitanie;1256722.24158
+2024.0;42.0;Loire;84.0;Auvergne-Rhône-Alpes;1139087.87024
+2021.0;37.0;Indre-et-Loire;24.0;Centre-Val de Loire;599513.15168
+2023.0;74.0;Haute-Savoie;84.0;Auvergne-Rhône-Alpes;1261300.35726
+2022.0;95.0;Val-d'Oise;11.0;Île-de-France;492323.24699
+2020.0;93.0;Seine-Saint-Denis;11.0;Île-de-France;585425.20867
+2024.0;1.0;Ain;84.0;Auvergne-Rhône-Alpes;1671801.63448
+2020.0;974.0;La Réunion;4.0;La Réunion;276253.362
+2019.0;10.0;Aube;44.0;Grand Est;642229.66686
+2023.0;976.0;Mayotte;6.0;Mayotte;20219.527
+2018.0;39.0;Jura;27.0;Bourgogne-Franche-Comté;573086.79695
+2020.0;52.0;Haute-Marne;44.0;Grand Est;499157.66373
+2019.0;28.0;Eure-et-Loir;24.0;Centre-Val de Loire;551228.03227
+2020.0;43.0;Haute-Loire;84.0;Auvergne-Rhône-Alpes;672705.37189
+2018.0;53.0;Mayenne;52.0;Pays de la Loire;928204.8526
+2023.0;30.0;Gard;76.0;Occitanie;1262946.56626
+2021.0;73.0;Savoie;84.0;Auvergne-Rhône-Alpes;3905098.18026
+2021.0;8.0;Ardennes;44.0;Grand Est;786044.60213
+2021.0;26.0;Drôme;84.0;Auvergne-Rhône-Alpes;1214142.88113
+2024.0;17.0;Charente-Maritime;75.0;Nouvelle-Aquitaine;345252.13892
+2019.0;91.0;Essonne;11.0;Île-de-France;898417.36405
+2019.0;86.0;Vienne;75.0;Nouvelle-Aquitaine;413433.38188
+2024.0;50.0;Manche;28.0;Normandie;1532203.85
+2024.0;53.0;Mayenne;52.0;Pays de la Loire;905130.10408
+2021.0;42.0;Loire;84.0;Auvergne-Rhône-Alpes;1467371.95004
+2023.0;55.0;Meuse;44.0;Grand Est;449834.40901
+2022.0;974.0;La Réunion;4.0;La Réunion;292132.126
+2018.0;47.0;Lot-et-Garonne;75.0;Nouvelle-Aquitaine;393473.14955
+2022.0;56.0;Morbihan;53.0;Bretagne;1282620.35581
+2021.0;18.0;Cher;24.0;Centre-Val de Loire;312092.68035
+2022.0;18.0;Cher;24.0;Centre-Val de Loire;301225.44741
+2021.0;2A;Corse-du-Sud;94.0;Corse;60555.979
+2021.0;81.0;Tarn;76.0;Occitanie;474401.07755
+2021.0;3.0;Allier;84.0;Auvergne-Rhône-Alpes;523785.4049
+2019.0;32.0;Gers;76.0;Occitanie;140032.50566
+2022.0;57.0;Moselle;44.0;Grand Est;2467961.18437
+2022.0;42.0;Loire;84.0;Auvergne-Rhône-Alpes;1363941.63102
+2022.0;90.0;Territoire de Belfort;27.0;Bourgogne-Franche-Comté;193800.73703
+2022.0;43.0;Haute-Loire;84.0;Auvergne-Rhône-Alpes;679782.79284
+2021.0;9.0;Ariège;76.0;Occitanie;225244.44643
+2018.0;85.0;Vendée;52.0;Pays de la Loire;1223544.9633
+2018.0;48.0;Lozère;76.0;Occitanie;107692.02487
+2020.0;15.0;Cantal;84.0;Auvergne-Rhône-Alpes;147502.54065
+2023.0;59.0;Nord;32.0;Hauts-de-France;10408228.87938
+2018.0;59.0;Nord;32.0;Hauts-de-France;10351186.20295
+2022.0;81.0;Tarn;76.0;Occitanie;472299.5073
+2019.0;14.0;Calvados;28.0;Normandie;839385.48949
+2020.0;72.0;Sarthe;52.0;Pays de la Loire;1050953.12426
+2019.0;71.0;Saône-et-Loire;27.0;Bourgogne-Franche-Comté;1213483.45797
+2024.0;15.0;Cantal;84.0;Auvergne-Rhône-Alpes;159913.742
+2022.0;88.0;Vosges;44.0;Grand Est;1668027.94927
+2020.0;69.0;Rhône;84.0;Auvergne-Rhône-Alpes;2538223.61843
+2023.0;4.0;Alpes-de-Haute-Provence;93.0;Provence-Alpes-Côte d'Azur;206540.37316
+2022.0;7.0;Ardèche;84.0;Auvergne-Rhône-Alpes;539361.07452
+2022.0;1.0;Ain;84.0;Auvergne-Rhône-Alpes;1924896.59384
+2020.0;16.0;Charente;75.0;Nouvelle-Aquitaine;733164.62708
+2023.0;75.0;Paris;11.0;Île-de-France;576955.959
+2018.0;41.0;Loir-et-Cher;24.0;Centre-Val de Loire;624580.03905
+2020.0;53.0;Mayenne;52.0;Pays de la Loire;890775.70342
+2020.0;91.0;Essonne;11.0;Île-de-France;801440.203
+2020.0;77.0;Seine-et-Marne;11.0;Île-de-France;1877405.50896
+2018.0;93.0;Seine-Saint-Denis;11.0;Île-de-France;567270.32222
+2019.0;973.0;Guyane;3.0;Guyane;30924.587
+2019.0;93.0;Seine-Saint-Denis;11.0;Île-de-France;590077.70425
+2020.0;81.0;Tarn;76.0;Occitanie;450923.26971
+2021.0;60.0;Oise;32.0;Hauts-de-France;1605354.26687
+2022.0;51.0;Marne;44.0;Grand Est;1357126.08731
+2023.0;34.0;Hérault;76.0;Occitanie;477340.09216
+2023.0;29.0;Finistère;53.0;Bretagne;1163689.39267
+2022.0;64.0;Pyrénées-Atlantiques;75.0;Nouvelle-Aquitaine;918923.99047
+2019.0;19.0;Corrèze;75.0;Nouvelle-Aquitaine;339601.18126
+2018.0;80.0;Somme;32.0;Hauts-de-France;1293151.46627
+2022.0;49.0;Maine-et-Loire;52.0;Pays de la Loire;1136754.74291
+2018.0;22.0;Côtes-d'Armor;53.0;Bretagne;897904.09904
+2022.0;76.0;Seine-Maritime;28.0;Normandie;4514780.00624
+2023.0;32.0;Gers;76.0;Occitanie;120940.295
+2019.0;72.0;Sarthe;52.0;Pays de la Loire;1155344.87681
+2023.0;22.0;Côtes-d'Armor;53.0;Bretagne;892388.32258
+2024.0;73.0;Savoie;84.0;Auvergne-Rhône-Alpes;3587747.94273
+2022.0;4.0;Alpes-de-Haute-Provence;93.0;Provence-Alpes-Côte d'Azur;223580.44763
+2019.0;65.0;Hautes-Pyrénées;76.0;Occitanie;297151.777
+2022.0;77.0;Seine-et-Marne;11.0;Île-de-France;1645490.79454
+2022.0;35.0;Ille-et-Vilaine;53.0;Bretagne;1510899.40565
+2020.0;76.0;Seine-Maritime;28.0;Normandie;4767298.3659
+2023.0;44.0;Loire-Atlantique;52.0;Pays de la Loire;2195170.46667
+2023.0;27.0;Eure;28.0;Normandie;1048612.40058
+2024.0;83.0;Var;93.0;Provence-Alpes-Côte d'Azur;276409.957
+2019.0;22.0;Côtes-d'Armor;53.0;Bretagne;910735.27499
+2022.0;87.0;Haute-Vienne;75.0;Nouvelle-Aquitaine;439973.33926
+2024.0;48.0;Lozère;76.0;Occitanie;57566.191
+2019.0;69.0;Rhône;84.0;Auvergne-Rhône-Alpes;2723033.78646
+2023.0;51.0;Marne;44.0;Grand Est;1375104.74167
+2020.0;87.0;Haute-Vienne;75.0;Nouvelle-Aquitaine;426748.38947
+2023.0;49.0;Maine-et-Loire;52.0;Pays de la Loire;1183711.44827
+2019.0;85.0;Vendée;52.0;Pays de la Loire;1248251.0932
+2020.0;89.0;Yonne;27.0;Bourgogne-Franche-Comté;541755.05087
+2019.0;56.0;Morbihan;53.0;Bretagne;1182274.163
+2023.0;73.0;Savoie;84.0;Auvergne-Rhône-Alpes;3415795.50542
+2019.0;33.0;Gironde;75.0;Nouvelle-Aquitaine;1425688.53551
+2021.0;62.0;Pas-de-Calais;32.0;Hauts-de-France;3318653.34067
+2018.0;55.0;Meuse;44.0;Grand Est;457735.08312
+2021.0;83.0;Var;93.0;Provence-Alpes-Côte d'Azur;441231.28217
+2022.0;17.0;Charente-Maritime;75.0;Nouvelle-Aquitaine;443696.42388
+2020.0;50.0;Manche;28.0;Normandie;1236188.92634
+2023.0;38.0;Isère;84.0;Auvergne-Rhône-Alpes;4476912.9138
+2022.0;83.0;Var;93.0;Provence-Alpes-Côte d'Azur;459543.58797
+2018.0;2B;Haute-Corse;94.0;Corse;56575.533
+2019.0;37.0;Indre-et-Loire;24.0;Centre-Val de Loire;580612.4221
+2020.0;67.0;Bas-Rhin;44.0;Grand Est;2866407.9664
+2020.0;47.0;Lot-et-Garonne;75.0;Nouvelle-Aquitaine;377338.38284
+2019.0;38.0;Isère;84.0;Auvergne-Rhône-Alpes;4133390.14958
+2019.0;46.0;Lot;76.0;Occitanie;226978.60688
+2018.0;9.0;Ariège;76.0;Occitanie;234660.4928
+2023.0;40.0;Landes;75.0;Nouvelle-Aquitaine;1182501.4651
+2020.0;41.0;Loir-et-Cher;24.0;Centre-Val de Loire;435919.53631
+2023.0;39.0;Jura;27.0;Bourgogne-Franche-Comté;1251688.22174
+2020.0;57.0;Moselle;44.0;Grand Est;2415944.83388
+2022.0;94.0;Val-de-Marne;11.0;Île-de-France;714683.11889
+2021.0;80.0;Somme;32.0;Hauts-de-France;1302092.75445
+2023.0;26.0;Drôme;84.0;Auvergne-Rhône-Alpes;1397668.76241
+2020.0;59.0;Nord;32.0;Hauts-de-France;10041603.51348
+2022.0;73.0;Savoie;84.0;Auvergne-Rhône-Alpes;21040801.60816
+2024.0;29.0;Finistère;53.0;Bretagne;1068946.3364
+2024.0;55.0;Meuse;44.0;Grand Est;417344.00346
+2024.0;51.0;Marne;44.0;Grand Est;1365588.97343
+2021.0;46.0;Lot;76.0;Occitanie;218937.38607
+2018.0;67.0;Bas-Rhin;44.0;Grand Est;2949331.83602
+2023.0;92.0;Hauts-de-Seine;11.0;Île-de-France;1003308.20485
+2024.0;62.0;Pas-de-Calais;32.0;Hauts-de-France;2912218.5752
+2022.0;13.0;Bouches-du-Rhône;93.0;Provence-Alpes-Côte d'Azur;5088492.37026
+2018.0;2.0;Aisne;32.0;Hauts-de-France;1000125.44411
+2019.0;90.0;Territoire de Belfort;27.0;Bourgogne-Franche-Comté;211662.21702
+2021.0;48.0;Lozère;76.0;Occitanie;118818.87557
+2024.0;5.0;Hautes-Alpes;93.0;Provence-Alpes-Côte d'Azur;55983.595
+2020.0;2A;Corse-du-Sud;94.0;Corse;55376.02
+2019.0;34.0;Hérault;76.0;Occitanie;383262.12525
+2024.0;14.0;Calvados;28.0;Normandie;820296.25876
+2022.0;22.0;Côtes-d'Armor;53.0;Bretagne;913458.50622
+2024.0;89.0;Yonne;27.0;Bourgogne-Franche-Comté;539478.046
+2018.0;974.0;La Réunion;4.0;La Réunion;300506.509
+2024.0;84.0;Vaucluse;93.0;Provence-Alpes-Côte d'Azur;631759.73584
+2022.0;61.0;Orne;28.0;Normandie;630315.59623
+2021.0;61.0;Orne;28.0;Normandie;610055.88474
+2024.0;57.0;Moselle;44.0;Grand Est;2465396.11538
+2018.0;46.0;Lot;76.0;Occitanie;224484.06414
+2018.0;3.0;Allier;84.0;Auvergne-Rhône-Alpes;511870.11399
+2019.0;55.0;Meuse;44.0;Grand Est;487026.15207
+2019.0;49.0;Maine-et-Loire;52.0;Pays de la Loire;1150479.33671
+2022.0;11.0;Aude;76.0;Occitanie;295404.53216
+2021.0;47.0;Lot-et-Garonne;75.0;Nouvelle-Aquitaine;392750.76094
+2019.0;61.0;Orne;28.0;Normandie;642817.74445
+2021.0;75.0;Paris;11.0;Île-de-France;575849.91728
+2022.0;30.0;Gard;76.0;Occitanie;1176086.86431
+2022.0;14.0;Calvados;28.0;Normandie;906995.49757
+2019.0;2.0;Aisne;32.0;Hauts-de-France;993134.99916
+2020.0;94.0;Val-de-Marne;11.0;Île-de-France;679318.76996
+2022.0;34.0;Hérault;76.0;Occitanie;476903.33368
+2024.0;52.0;Haute-Marne;44.0;Grand Est;503999.55025
+2024.0;76.0;Seine-Maritime;28.0;Normandie;4311033.61521
+2020.0;42.0;Loire;84.0;Auvergne-Rhône-Alpes;1346908.78842
+2024.0;971.0;Guadeloupe;1.0;Guadeloupe;111533.574
+2019.0;50.0;Manche;28.0;Normandie;1344494.53054
+2023.0;50.0;Manche;28.0;Normandie;1438130.43684
+2024.0;94.0;Val-de-Marne;11.0;Île-de-France;638088.02754
+2021.0;28.0;Eure-et-Loir;24.0;Centre-Val de Loire;564520.07266
+2019.0;52.0;Haute-Marne;44.0;Grand Est;550923.01686
+2024.0;27.0;Eure;28.0;Normandie;1025415.39026
+2021.0;68.0;Haut-Rhin;44.0;Grand Est;2169301.47096
+2024.0;23.0;Creuse;75.0;Nouvelle-Aquitaine;94327.485
+2021.0;23.0;Creuse;75.0;Nouvelle-Aquitaine;100389.55984
+2022.0;89.0;Yonne;27.0;Bourgogne-Franche-Comté;580151.5734
+2018.0;27.0;Eure;28.0;Normandie;1272459.08667
+2020.0;44.0;Loire-Atlantique;52.0;Pays de la Loire;2087373.42783
+2023.0;87.0;Haute-Vienne;75.0;Nouvelle-Aquitaine;423336.41783
+2020.0;54.0;Meurthe-et-Moselle;44.0;Grand Est;1648189.64423
+2019.0;23.0;Creuse;75.0;Nouvelle-Aquitaine;106293.44737
+2022.0;5.0;Hautes-Alpes;93.0;Provence-Alpes-Côte d'Azur;60481.98513
+2023.0;54.0;Meurthe-et-Moselle;44.0;Grand Est;1663791.61459
+2023.0;66.0;Pyrénées-Orientales;76.0;Occitanie;220327.688
+2024.0;11.0;Aude;76.0;Occitanie;268801.03483
+2018.0;42.0;Loire;84.0;Auvergne-Rhône-Alpes;1431753.31799
+2019.0;31.0;Haute-Garonne;76.0;Occitanie;1184102.46695
+2020.0;90.0;Territoire de Belfort;27.0;Bourgogne-Franche-Comté;192190.75825
+2024.0;71.0;Saône-et-Loire;27.0;Bourgogne-Franche-Comté;946085.30782
+2023.0;17.0;Charente-Maritime;75.0;Nouvelle-Aquitaine;386060.68466
+2022.0;52.0;Haute-Marne;44.0;Grand Est;565905.54521
+2018.0;70.0;Haute-Saône;27.0;Bourgogne-Franche-Comté;414315.49835
+2020.0;95.0;Val-d'Oise;11.0;Île-de-France;470067.75509
+2021.0;63.0;Puy-de-Dôme;84.0;Auvergne-Rhône-Alpes;1186670.66637
+2024.0;2B;Haute-Corse;94.0;Corse;55287.41
+2021.0;16.0;Charente;75.0;Nouvelle-Aquitaine;754395.20314
+2019.0;95.0;Val-d'Oise;11.0;Île-de-France;481601.82173
+2024.0;4.0;Alpes-de-Haute-Provence;93.0;Provence-Alpes-Côte d'Azur;136530.44361
+2023.0;8.0;Ardennes;44.0;Grand Est;884784.31326
+2018.0;17.0;Charente-Maritime;75.0;Nouvelle-Aquitaine;442505.17926
+2021.0;82.0;Tarn-et-Garonne;76.0;Occitanie;181835.41865
+2019.0;47.0;Lot-et-Garonne;75.0;Nouvelle-Aquitaine;408460.45043
+2021.0;93.0;Seine-Saint-Denis;11.0;Île-de-France;643160.13083
+2021.0;29.0;Finistère;53.0;Bretagne;1087881.56522
+2021.0;14.0;Calvados;28.0;Normandie;896556.86559
+2018.0;2A;Corse-du-Sud;94.0;Corse;62350.015
+2018.0;4.0;Alpes-de-Haute-Provence;93.0;Provence-Alpes-Côte d'Azur;227313.30832
+2019.0;13.0;Bouches-du-Rhône;93.0;Provence-Alpes-Côte d'Azur;5784846.25849
+2022.0;70.0;Haute-Saône;27.0;Bourgogne-Franche-Comté;464070.74045
+2020.0;10.0;Aube;44.0;Grand Est;621390.42189
+2024.0;26.0;Drôme;84.0;Auvergne-Rhône-Alpes;1368127.6957
+2021.0;15.0;Cantal;84.0;Auvergne-Rhône-Alpes;158911.66259
+2020.0;58.0;Nièvre;27.0;Bourgogne-Franche-Comté;318678.92353
+2019.0;94.0;Val-de-Marne;11.0;Île-de-France;671387.2585
+2023.0;89.0;Yonne;27.0;Bourgogne-Franche-Comté;542105.181
+2022.0;12.0;Aveyron;76.0;Occitanie;345826.71995
+2022.0;15.0;Cantal;84.0;Auvergne-Rhône-Alpes;161864.89569
+2024.0;75.0;Paris;11.0;Île-de-France;576967.475
+2020.0;73.0;Savoie;84.0;Auvergne-Rhône-Alpes;3690037.27222
+2020.0;35.0;Ille-et-Vilaine;53.0;Bretagne;1533127.26338
+2023.0;69.0;Rhône;84.0;Auvergne-Rhône-Alpes;2588817.60831
+2023.0;973.0;Guyane;3.0;Guyane;44401.288
+2022.0;72.0;Sarthe;52.0;Pays de la Loire;1116788.09699
+2018.0;36.0;Indre;24.0;Centre-Val de Loire;422442.9944
+2021.0;71.0;Saône-et-Loire;27.0;Bourgogne-Franche-Comté;1158884.25215
+2018.0;92.0;Hauts-de-Seine;11.0;Île-de-France;938252.22063
+2019.0;4.0;Alpes-de-Haute-Provence;93.0;Provence-Alpes-Côte d'Azur;206436.50912
+2024.0;35.0;Ille-et-Vilaine;53.0;Bretagne;1444808.78408
+2021.0;92.0;Hauts-de-Seine;11.0;Île-de-France;1008418.74703
+2024.0;63.0;Puy-de-Dôme;84.0;Auvergne-Rhône-Alpes;1267018.7925
+2022.0;66.0;Pyrénées-Orientales;76.0;Occitanie;241804.67172
+2022.0;84.0;Vaucluse;93.0;Provence-Alpes-Côte d'Azur;701361.15367
+2018.0;45.0;Loiret;24.0;Centre-Val de Loire;1368208.47856
+2019.0;35.0;Ille-et-Vilaine;53.0;Bretagne;1615766.49626
+2020.0;5.0;Hautes-Alpes;93.0;Provence-Alpes-Côte d'Azur;53514.96147
+2023.0;80.0;Somme;32.0;Hauts-de-France;1205615.53275
+2023.0;971.0;Guadeloupe;1.0;Guadeloupe;110565.454
+2019.0;976.0;Mayotte;6.0;Mayotte;84469.195
+2022.0;32.0;Gers;76.0;Occitanie;133645.58951
+2018.0;63.0;Puy-de-Dôme;84.0;Auvergne-Rhône-Alpes;1282098.83772
+2022.0;41.0;Loir-et-Cher;24.0;Centre-Val de Loire;475422.88434
+2020.0;49.0;Maine-et-Loire;52.0;Pays de la Loire;1144002.42072
+2024.0;6.0;Alpes-Maritimes;93.0;Provence-Alpes-Côte d'Azur;479728.63617
+2019.0;92.0;Hauts-de-Seine;11.0;Île-de-France;928847.429689999
+2023.0;76.0;Seine-Maritime;28.0;Normandie;4586210.85153
+2019.0;60.0;Oise;32.0;Hauts-de-France;1668361.98946
+2019.0;88.0;Vosges;44.0;Grand Est;1722922.31351
+2022.0;2.0;Aisne;32.0;Hauts-de-France;973935.29003
+2020.0;65.0;Hautes-Pyrénées;76.0;Occitanie;258596.71934
+2022.0;46.0;Lot;76.0;Occitanie;220805.77667
+2023.0;68.0;Haut-Rhin;44.0;Grand Est;1950433.82815
+2023.0;2B;Haute-Corse;94.0;Corse;55007.363
+2018.0;79.0;Deux-Sèvres;75.0;Nouvelle-Aquitaine;722740.16073
+2020.0;71.0;Saône-et-Loire;27.0;Bourgogne-Franche-Comté;1080927.8002
+2019.0;79.0;Deux-Sèvres;75.0;Nouvelle-Aquitaine;714669.65945
+2022.0;33.0;Gironde;75.0;Nouvelle-Aquitaine;1264137.65037
+2022.0;86.0;Vienne;75.0;Nouvelle-Aquitaine;348256.79814
+2021.0;43.0;Haute-Loire;84.0;Auvergne-Rhône-Alpes;705229.09221
+2020.0;56.0;Morbihan;53.0;Bretagne;1200328.11694
+2023.0;86.0;Vienne;75.0;Nouvelle-Aquitaine;328410.4326
+2024.0;31.0;Haute-Garonne;76.0;Occitanie;993870.23748
+2022.0;39.0;Jura;27.0;Bourgogne-Franche-Comté;563204.15924
+2018.0;84.0;Vaucluse;93.0;Provence-Alpes-Côte d'Azur;687900.40186
+2020.0;66.0;Pyrénées-Orientales;76.0;Occitanie;214765.50634
+2024.0;69.0;Rhône;84.0;Auvergne-Rhône-Alpes;2495517.242
+2022.0;3.0;Allier;84.0;Auvergne-Rhône-Alpes;505565.12326
+2024.0;68.0;Haut-Rhin;44.0;Grand Est;2030300.35028
+2018.0;973.0;Guyane;3.0;Guyane;36509.204
+2022.0;93.0;Seine-Saint-Denis;11.0;Île-de-France;624787.04533
+2019.0;89.0;Yonne;27.0;Bourgogne-Franche-Comté;579382.19876
+2022.0;9.0;Ariège;76.0;Occitanie;231446.80808
+2018.0;65.0;Hautes-Pyrénées;76.0;Occitanie;316408.27706
+2019.0;51.0;Marne;44.0;Grand Est;1360174.3408
+2022.0;48.0;Lozère;76.0;Occitanie;122479.10174
+2024.0;7.0;Ardèche;84.0;Auvergne-Rhône-Alpes;511968.21924
+2021.0;21.0;Côte-d'Or;27.0;Bourgogne-Franche-Comté;738461.88784
+2021.0;72.0;Sarthe;52.0;Pays de la Loire;1102095.7489
+2023.0;62.0;Pas-de-Calais;32.0;Hauts-de-France;2995923.52467
+2021.0;53.0;Mayenne;52.0;Pays de la Loire;941252.19716
+2020.0;55.0;Meuse;44.0;Grand Est;488586.11492
+2023.0;91.0;Essonne;11.0;Île-de-France;1304687.09937
+2022.0;63.0;Puy-de-Dôme;84.0;Auvergne-Rhône-Alpes;1235829.04232
+2022.0;74.0;Haute-Savoie;84.0;Auvergne-Rhône-Alpes;1336108.73623
+2020.0;32.0;Gers;76.0;Occitanie;137863.54858
+2019.0;75.0;Paris;11.0;Île-de-France;537740.03047
+2023.0;31.0;Haute-Garonne;76.0;Occitanie;1129443.90866
+2023.0;33.0;Gironde;75.0;Nouvelle-Aquitaine;1242134.32141
+2022.0;44.0;Loire-Atlantique;52.0;Pays de la Loire;2114201.63291
+2018.0;77.0;Seine-et-Marne;11.0;Île-de-France;2309703.99232
+2018.0;43.0;Haute-Loire;84.0;Auvergne-Rhône-Alpes;635875.21811
+2021.0;2B;Haute-Corse;94.0;Corse;56966.138
+2019.0;68.0;Haut-Rhin;44.0;Grand Est;2181446.24992
+2023.0;35.0;Ille-et-Vilaine;53.0;Bretagne;1464406.094
+2018.0;971.0;Guadeloupe;1.0;Guadeloupe;113868.481
+2018.0;81.0;Tarn;76.0;Occitanie;451922.69586
+2021.0;85.0;Vendée;52.0;Pays de la Loire;1220345.00339
+2020.0;971.0;Guadeloupe;1.0;Guadeloupe;109166.145
+2018.0;66.0;Pyrénées-Orientales;76.0;Occitanie;234097.42288
+2022.0;26.0;Drôme;84.0;Auvergne-Rhône-Alpes;1094146.21875
+2023.0;71.0;Saône-et-Loire;27.0;Bourgogne-Franche-Comté;1143588.12438
+2023.0;56.0;Morbihan;53.0;Bretagne;1279639.0891
+2018.0;25.0;Doubs;27.0;Bourgogne-Franche-Comté;854048.07153
+2021.0;32.0;Gers;76.0;Occitanie;134908.44718
+2019.0;21.0;Côte-d'Or;27.0;Bourgogne-Franche-Comté;748478.82365
+2019.0;25.0;Doubs;27.0;Bourgogne-Franche-Comté;841491.26001
+2022.0;6.0;Alpes-Maritimes;93.0;Provence-Alpes-Côte d'Azur;522641.80303
+2024.0;37.0;Indre-et-Loire;24.0;Centre-Val de Loire;446105.42001
+2019.0;74.0;Haute-Savoie;84.0;Auvergne-Rhône-Alpes;1437341.80909
+2022.0;27.0;Eure;28.0;Normandie;1117461.74299
+2020.0;14.0;Calvados;28.0;Normandie;867595.58019
+2024.0;9.0;Ariège;76.0;Occitanie;156331.87825
+2022.0;24.0;Dordogne;75.0;Nouvelle-Aquitaine;454194.48374
+2018.0;52.0;Haute-Marne;44.0;Grand Est;585166.99357
+2023.0;84.0;Vaucluse;93.0;Provence-Alpes-Côte d'Azur;652327.81416
+2024.0;972.0;Martinique;2.0;Martinique;134144.595
+2022.0;31.0;Haute-Garonne;76.0;Occitanie;1159349.24006
+2022.0;62.0;Pas-de-Calais;32.0;Hauts-de-France;3353640.43135
+2022.0;82.0;Tarn-et-Garonne;76.0;Occitanie;191155.72433
+2023.0;93.0;Seine-Saint-Denis;11.0;Île-de-France;589814.335
+2021.0;24.0;Dordogne;75.0;Nouvelle-Aquitaine;460656.29821
+2023.0;53.0;Mayenne;52.0;Pays de la Loire;903001.88458
+2020.0;40.0;Landes;75.0;Nouvelle-Aquitaine;1158035.6697
+2020.0;60.0;Oise;32.0;Hauts-de-France;1482737.84304
+2023.0;23.0;Creuse;75.0;Nouvelle-Aquitaine;96155.099
+2019.0;971.0;Guadeloupe;1.0;Guadeloupe;108631.058
+2018.0;7.0;Ardèche;84.0;Auvergne-Rhône-Alpes;558616.10904
+2024.0;33.0;Gironde;75.0;Nouvelle-Aquitaine;1337438.44459
+2021.0;74.0;Haute-Savoie;84.0;Auvergne-Rhône-Alpes;1360576.64879
+2021.0;11.0;Aude;76.0;Occitanie;296306.87702
+2020.0;61.0;Orne;28.0;Normandie;585498.43987
+2019.0;81.0;Tarn;76.0;Occitanie;465122.78092
+2019.0;83.0;Var;93.0;Provence-Alpes-Côte d'Azur;393999.05507
+2023.0;7.0;Ardèche;84.0;Auvergne-Rhône-Alpes;521894.86321
+2020.0;79.0;Deux-Sèvres;75.0;Nouvelle-Aquitaine;728165.42825
+2021.0;4.0;Alpes-de-Haute-Provence;93.0;Provence-Alpes-Côte d'Azur;225608.1073
+2018.0;56.0;Morbihan;53.0;Bretagne;1204666.36749
+2021.0;971.0;Guadeloupe;1.0;Guadeloupe;115537.916
+2018.0;34.0;Hérault;76.0;Occitanie;388143.76266
+2019.0;26.0;Drôme;84.0;Auvergne-Rhône-Alpes;1190460.08439
+2024.0;40.0;Landes;75.0;Nouvelle-Aquitaine;1059132.38676
+2020.0;39.0;Jura;27.0;Bourgogne-Franche-Comté;530987.84632
+2022.0;21.0;Côte-d'Or;27.0;Bourgogne-Franche-Comté;736322.64381
+2021.0;974.0;La Réunion;4.0;La Réunion;284990.689
+2020.0;38.0;Isère;84.0;Auvergne-Rhône-Alpes;3837935.0595
+2019.0;17.0;Charente-Maritime;75.0;Nouvelle-Aquitaine;446627.5009
+2024.0;66.0;Pyrénées-Orientales;76.0;Occitanie;221149.873
+2023.0;77.0;Seine-et-Marne;11.0;Île-de-France;1427725.11209
+2019.0;84.0;Vaucluse;93.0;Provence-Alpes-Côte d'Azur;728956.74826
+2023.0;11.0;Aude;76.0;Occitanie;279221.79392
+2021.0;58.0;Nièvre;27.0;Bourgogne-Franche-Comté;333455.30056
+2021.0;10.0;Aube;44.0;Grand Est;688035.90928
+2022.0;36.0;Indre;24.0;Centre-Val de Loire;368786.31309
+2018.0;68.0;Haut-Rhin;44.0;Grand Est;2215414.98878
+2019.0;40.0;Landes;75.0;Nouvelle-Aquitaine;1246179.3119
+2021.0;45.0;Loiret;24.0;Centre-Val de Loire;1287485.10038
+2024.0;74.0;Haute-Savoie;84.0;Auvergne-Rhône-Alpes;1253757.26051
+2021.0;36.0;Indre;24.0;Centre-Val de Loire;381244.50877
+2019.0;9.0;Ariège;76.0;Occitanie;246849.28611
+2020.0;82.0;Tarn-et-Garonne;76.0;Occitanie;181969.27578
+2020.0;976.0;Mayotte;6.0;Mayotte;80741.848
+2020.0;2.0;Aisne;32.0;Hauts-de-France;937868.52454
+2018.0;6.0;Alpes-Maritimes;93.0;Provence-Alpes-Côte d'Azur;499303.92329
+2019.0;42.0;Loire;84.0;Auvergne-Rhône-Alpes;1427725.69765
+2021.0;35.0;Ille-et-Vilaine;53.0;Bretagne;1563528.12195
+2019.0;15.0;Cantal;84.0;Auvergne-Rhône-Alpes;152575.38018
+2021.0;5.0;Hautes-Alpes;93.0;Provence-Alpes-Côte d'Azur;57812.41835
+2018.0;57.0;Moselle;44.0;Grand Est;2794147.0195
+2022.0;75.0;Paris;11.0;Île-de-France;617306.19372
+2023.0;65.0;Hautes-Pyrénées;76.0;Occitanie;262653.54281
+2018.0;86.0;Vienne;75.0;Nouvelle-Aquitaine;471747.43807
+2020.0;74.0;Haute-Savoie;84.0;Auvergne-Rhône-Alpes;1205484.05511
+2021.0;973.0;Guyane;3.0;Guyane;36855.057
+2024.0;64.0;Pyrénées-Atlantiques;75.0;Nouvelle-Aquitaine;898683.72889
+2023.0;47.0;Lot-et-Garonne;75.0;Nouvelle-Aquitaine;400975.33517
+2018.0;49.0;Maine-et-Loire;52.0;Pays de la Loire;1121994.6746
+2020.0;28.0;Eure-et-Loir;24.0;Centre-Val de Loire;555522.20988
+2024.0;46.0;Lot;76.0;Occitanie;212854.42
+2024.0;82.0;Tarn-et-Garonne;76.0;Occitanie;182465.28658
+2022.0;71.0;Saône-et-Loire;27.0;Bourgogne-Franche-Comté;1136324.17211
+2024.0;58.0;Nièvre;27.0;Bourgogne-Franche-Comté;191417.404
+2019.0;44.0;Loire-Atlantique;52.0;Pays de la Loire;2071438.11488
+2024.0;36.0;Indre;24.0;Centre-Val de Loire;366834.334
+2023.0;972.0;Martinique;2.0;Martinique;136752.52
+2024.0;85.0;Vendée;52.0;Pays de la Loire;1144583.63215
+2024.0;44.0;Loire-Atlantique;52.0;Pays de la Loire;2066033.08537
+2024.0;88.0;Vosges;44.0;Grand Est;1172225.55427
+2021.0;38.0;Isère;84.0;Auvergne-Rhône-Alpes;4023435.27518
+2023.0;37.0;Indre-et-Loire;24.0;Centre-Val de Loire;551530.19775
+2023.0;28.0;Eure-et-Loir;24.0;Centre-Val de Loire;528994.47
+2024.0;59.0;Nord;32.0;Hauts-de-France;10240889.84961
+2022.0;79.0;Deux-Sèvres;75.0;Nouvelle-Aquitaine;710687.83032
+2018.0;11.0;Aude;76.0;Occitanie;264118.33215
+2019.0;82.0;Tarn-et-Garonne;76.0;Occitanie;184168.41199
+2024.0;38.0;Isère;84.0;Auvergne-Rhône-Alpes;3538914.79935
+2022.0;92.0;Hauts-de-Seine;11.0;Île-de-France;1033633.09314
+2023.0;974.0;La Réunion;4.0;La Réunion;277236.822
+2021.0;79.0;Deux-Sèvres;75.0;Nouvelle-Aquitaine;738547.18019
+2024.0;54.0;Meurthe-et-Moselle;44.0;Grand Est;1499331.68109
+2018.0;61.0;Orne;28.0;Normandie;671318.09291
+2018.0;40.0;Landes;75.0;Nouvelle-Aquitaine;1134327.85369
+2018.0;18.0;Cher;24.0;Centre-Val de Loire;321723.87875
+2018.0;29.0;Finistère;53.0;Bretagne;1020622.42155
+2024.0;39.0;Jura;27.0;Bourgogne-Franche-Comté;1371624.34924
+2021.0;40.0;Landes;75.0;Nouvelle-Aquitaine;1215925.3683
+2024.0;24.0;Dordogne;75.0;Nouvelle-Aquitaine;441092.43833
+2023.0;10.0;Aube;44.0;Grand Est;611019.24517
+2019.0;62.0;Pas-de-Calais;32.0;Hauts-de-France;3442367.55799
+2024.0;2A;Corse-du-Sud;94.0;Corse;51571.894
+2018.0;15.0;Cantal;84.0;Auvergne-Rhône-Alpes;149711.01442
+2018.0;14.0;Calvados;28.0;Normandie;903046.26883
+2018.0;91.0;Essonne;11.0;Île-de-France;829676.66675
+2023.0;2A;Corse-du-Sud;94.0;Corse;54659.145
+2021.0;7.0;Ardèche;84.0;Auvergne-Rhône-Alpes;538292.6341
+2019.0;3.0;Allier;84.0;Auvergne-Rhône-Alpes;517676.918
+2024.0;93.0;Seine-Saint-Denis;11.0;Île-de-France;539447.967
+2023.0;78.0;Yvelines;11.0;Île-de-France;1337936.57452
+2020.0;2B;Haute-Corse;94.0;Corse;50184.885
+2024.0;61.0;Orne;28.0;Normandie;562226.892
+2018.0;12.0;Aveyron;76.0;Occitanie;339390.27522
+2021.0;27.0;Eure;28.0;Normandie;1154578.45659
+2021.0;77.0;Seine-et-Marne;11.0;Île-de-France;1764995.8129
+2022.0;65.0;Hautes-Pyrénées;76.0;Occitanie;301328.4378
+2024.0;92.0;Hauts-de-Seine;11.0;Île-de-France;922753.06712
+2018.0;71.0;Saône-et-Loire;27.0;Bourgogne-Franche-Comté;1247417.74647
+2023.0;61.0;Orne;28.0;Normandie;605051.52475
+2020.0;8.0;Ardennes;44.0;Grand Est;750529.35697
+2021.0;12.0;Aveyron;76.0;Occitanie;341158.25241
+2021.0;30.0;Gard;76.0;Occitanie;1187487.69984
+2024.0;77.0;Seine-et-Marne;11.0;Île-de-France;1437480.04273
+2024.0;22.0;Côtes-d'Armor;53.0;Bretagne;888173.23707
+2024.0;70.0;Haute-Saône;27.0;Bourgogne-Franche-Comté;406181.76583
+2022.0;40.0;Landes;75.0;Nouvelle-Aquitaine;1072137.85153
+2019.0;12.0;Aveyron;76.0;Occitanie;356415.43211
+2024.0;13.0;Bouches-du-Rhône;93.0;Provence-Alpes-Côte d'Azur;2357158.68601
+2023.0;90.0;Territoire de Belfort;27.0;Bourgogne-Franche-Comté;190826.81859
+2019.0;59.0;Nord;32.0;Hauts-de-France;10565057.54517
+2022.0;85.0;Vendée;52.0;Pays de la Loire;1259455.78726
+2022.0;60.0;Oise;32.0;Hauts-de-France;1555970.99172
+2023.0;25.0;Doubs;27.0;Bourgogne-Franche-Comté;846044.29429
+2019.0;6.0;Alpes-Maritimes;93.0;Provence-Alpes-Côte d'Azur;467105.40401
+2021.0;6.0;Alpes-Maritimes;93.0;Provence-Alpes-Côte d'Azur;509581.63603
+2021.0;52.0;Haute-Marne;44.0;Grand Est;565960.05665
+2023.0;24.0;Dordogne;75.0;Nouvelle-Aquitaine;422730.80633
+2024.0;60.0;Oise;32.0;Hauts-de-France;1283194.79951
+2021.0;13.0;Bouches-du-Rhône;93.0;Provence-Alpes-Côte d'Azur;5950818.43319
+2024.0;3.0;Allier;84.0;Auvergne-Rhône-Alpes;544073.21657
+2024.0;45.0;Loiret;24.0;Centre-Val de Loire;1331995.60642
+2023.0;41.0;Loir-et-Cher;24.0;Centre-Val de Loire;439046.99219
+2018.0;87.0;Haute-Vienne;75.0;Nouvelle-Aquitaine;463874.23826
+2019.0;2A;Corse-du-Sud;94.0;Corse;57401.002
+2021.0;25.0;Doubs;27.0;Bourgogne-Franche-Comté;806308.52446
+2018.0;50.0;Manche;28.0;Normandie;1168394.13477
+2018.0;75.0;Paris;11.0;Île-de-France;553935.98651
+2022.0;971.0;Guadeloupe;1.0;Guadeloupe;123592.278
+2018.0;28.0;Eure-et-Loir;24.0;Centre-Val de Loire;542469.84603
+2024.0;25.0;Doubs;27.0;Bourgogne-Franche-Comté;827451.07526
+2019.0;16.0;Charente;75.0;Nouvelle-Aquitaine;726987.34207
+2018.0;38.0;Isère;84.0;Auvergne-Rhône-Alpes;4104928.33148
+2018.0;83.0;Var;93.0;Provence-Alpes-Côte d'Azur;398150.88959
+2023.0;16.0;Charente;75.0;Nouvelle-Aquitaine;685682.46692
+2022.0;28.0;Eure-et-Loir;24.0;Centre-Val de Loire;555900.917
+2020.0;21.0;Côte-d'Or;27.0;Bourgogne-Franche-Comté;728578.21652
+2020.0;37.0;Indre-et-Loire;24.0;Centre-Val de Loire;562070.50931
+2020.0;70.0;Haute-Saône;27.0;Bourgogne-Franche-Comté;412715.88782
+2020.0;68.0;Haut-Rhin;44.0;Grand Est;1967867.30374
+2020.0;27.0;Eure;28.0;Normandie;1138742.75303
+2023.0;85.0;Vendée;52.0;Pays de la Loire;1233848.57283
+2019.0;53.0;Mayenne;52.0;Pays de la Loire;928057.59834
+2023.0;6.0;Alpes-Maritimes;93.0;Provence-Alpes-Côte d'Azur;489512.17641
+2022.0;23.0;Creuse;75.0;Nouvelle-Aquitaine;100200.78136
+2018.0;32.0;Gers;76.0;Occitanie;145529.88665
+2024.0;19.0;Corrèze;75.0;Nouvelle-Aquitaine;313836.42218
+2020.0;3.0;Allier;84.0;Auvergne-Rhône-Alpes;501212.03938
+2023.0;42.0;Loire;84.0;Auvergne-Rhône-Alpes;1269437.42686
+2020.0;31.0;Haute-Garonne;76.0;Occitanie;1177444.30419
+2019.0;78.0;Yvelines;11.0;Île-de-France;1560816.39744
+2018.0;33.0;Gironde;75.0;Nouvelle-Aquitaine;1431653.37533
+2021.0;41.0;Loir-et-Cher;24.0;Centre-Val de Loire;453283.57265
+2023.0;52.0;Haute-Marne;44.0;Grand Est;542971.01384
+2024.0;78.0;Yvelines;11.0;Île-de-France;1380762.93617
+2019.0;58.0;Nièvre;27.0;Bourgogne-Franche-Comté;344282.58086
+2020.0;22.0;Côtes-d'Armor;53.0;Bretagne;899125.9735
+2022.0;59.0;Nord;32.0;Hauts-de-France;9619565.55949
+2022.0;58.0;Nièvre;27.0;Bourgogne-Franche-Comté;323427.12452
+2021.0;39.0;Jura;27.0;Bourgogne-Franche-Comté;555149.27372
+2019.0;1.0;Ain;84.0;Auvergne-Rhône-Alpes;2015642.97353
+2020.0;26.0;Drôme;84.0;Auvergne-Rhône-Alpes;1078335.65933
+2019.0;2B;Haute-Corse;94.0;Corse;45727.009
+2021.0;64.0;Pyrénées-Atlantiques;75.0;Nouvelle-Aquitaine;843502.4771
+2021.0;56.0;Morbihan;53.0;Bretagne;1253908.37908
+2021.0;87.0;Haute-Vienne;75.0;Nouvelle-Aquitaine;476799.88836
+2023.0;18.0;Cher;24.0;Centre-Val de Loire;354754.75044
+2020.0;13.0;Bouches-du-Rhône;93.0;Provence-Alpes-Côte d'Azur;5425417.78937
+2018.0;64.0;Pyrénées-Atlantiques;75.0;Nouvelle-Aquitaine;1042407.40122
+2018.0;35.0;Ille-et-Vilaine;53.0;Bretagne;1592378.46621
+2020.0;92.0;Hauts-de-Seine;11.0;Île-de-France;921206.25945
+2018.0;62.0;Pas-de-Calais;32.0;Hauts-de-France;3277049.50841
+2018.0;89.0;Yonne;27.0;Bourgogne-Franche-Comté;497956.13652
+2020.0;83.0;Var;93.0;Provence-Alpes-Côte d'Azur;416705.01518
+2020.0;9.0;Ariège;76.0;Occitanie;212642.31377
+2022.0;45.0;Loiret;24.0;Centre-Val de Loire;1253887.16911
+2023.0;21.0;Côte-d'Or;27.0;Bourgogne-Franche-Comté;683464.36843
+2019.0;41.0;Loir-et-Cher;24.0;Centre-Val de Loire;469684.64848
+2018.0;37.0;Indre-et-Loire;24.0;Centre-Val de Loire;606283.40608
+2018.0;74.0;Haute-Savoie;84.0;Auvergne-Rhône-Alpes;1387588.62767
+2024.0;47.0;Lot-et-Garonne;75.0;Nouvelle-Aquitaine;406442.33217
+2019.0;45.0;Loiret;24.0;Centre-Val de Loire;1302265.03978
+2021.0;19.0;Corrèze;75.0;Nouvelle-Aquitaine;340494.91577
+2020.0;85.0;Vendée;52.0;Pays de la Loire;1159992.49198
+2023.0;15.0;Cantal;84.0;Auvergne-Rhône-Alpes;161110.319
+2020.0;34.0;Hérault;76.0;Occitanie;380494.83677
+2024.0;8.0;Ardennes;44.0;Grand Est;885254.6437
+2021.0;31.0;Haute-Garonne;76.0;Occitanie;1197460.54716
+2019.0;36.0;Indre;24.0;Centre-Val de Loire;411150.1108
+2019.0;76.0;Seine-Maritime;28.0;Normandie;4873390.37359
+2024.0;86.0;Vienne;75.0;Nouvelle-Aquitaine;341078.61
+2018.0;72.0;Sarthe;52.0;Pays de la Loire;1256970.45076
+2024.0;43.0;Haute-Loire;84.0;Auvergne-Rhône-Alpes;652404.264
+2021.0;57.0;Moselle;44.0;Grand Est;2698601.54986
+2023.0;46.0;Lot;76.0;Occitanie;212484.319
+2020.0;30.0;Gard;76.0;Occitanie;1007350.7651
+2020.0;19.0;Corrèze;75.0;Nouvelle-Aquitaine;323992.25275
+2022.0;973.0;Guyane;3.0;Guyane;41102.197
+2020.0;973.0;Guyane;3.0;Guyane;31299.31
+2019.0;63.0;Puy-de-Dôme;84.0;Auvergne-Rhône-Alpes;1280394.11619
+2023.0;36.0;Indre;24.0;Centre-Val de Loire;359842.224
+2018.0;21.0;Côte-d'Or;27.0;Bourgogne-Franche-Comté;723930.83195
+2023.0;43.0;Haute-Loire;84.0;Auvergne-Rhône-Alpes;645228.538
+2021.0;90.0;Territoire de Belfort;27.0;Bourgogne-Franche-Comté;200641.49955
+2021.0;95.0;Val-d'Oise;11.0;Île-de-France;482777.42282
+2019.0;974.0;La Réunion;4.0;La Réunion;292879.342
+2018.0;60.0;Oise;32.0;Hauts-de-France;1760152.98898
+2021.0;70.0;Haute-Saône;27.0;Bourgogne-Franche-Comté;478418.07594
+2023.0;19.0;Corrèze;75.0;Nouvelle-Aquitaine;311452.16967
+2019.0;67.0;Bas-Rhin;44.0;Grand Est;2841976.17038
+2024.0;21.0;Côte-d'Or;27.0;Bourgogne-Franche-Comté;671023.74491
+2018.0;24.0;Dordogne;75.0;Nouvelle-Aquitaine;501018.5979
+2021.0;2.0;Aisne;32.0;Hauts-de-France;1002932.59913
+2018.0;54.0;Meurthe-et-Moselle;44.0;Grand Est;1853025.68676
+2020.0;972.0;Martinique;2.0;Martinique;112170.18
+2022.0;37.0;Indre-et-Loire;24.0;Centre-Val de Loire;559228.59813
+2024.0;973.0;Guyane;3.0;Guyane;45118.82
+2021.0;1.0;Ain;84.0;Auvergne-Rhône-Alpes;1944008.09557
+2020.0;48.0;Lozère;76.0;Occitanie;107981.17397
+2018.0;1.0;Ain;84.0;Auvergne-Rhône-Alpes;2014090.44022
+2020.0;51.0;Marne;44.0;Grand Est;1334467.27539
+2018.0;23.0;Creuse;75.0;Nouvelle-Aquitaine;106485.88278
+2019.0;27.0;Eure;28.0;Normandie;1292650.11619
+2024.0;32.0;Gers;76.0;Occitanie;122731.436
+2020.0;80.0;Somme;32.0;Hauts-de-France;1260724.51994
+2019.0;18.0;Cher;24.0;Centre-Val de Loire;325769.24242
+2020.0;7.0;Ardèche;84.0;Auvergne-Rhône-Alpes;508284.49424
+2023.0;12.0;Aveyron;76.0;Occitanie;328481.87437
+2023.0;60.0;Oise;32.0;Hauts-de-France;1461933.25208
+2023.0;72.0;Sarthe;52.0;Pays de la Loire;1085566.10015
+2022.0;47.0;Lot-et-Garonne;75.0;Nouvelle-Aquitaine;416606.74376
+2023.0;58.0;Nièvre;27.0;Bourgogne-Franche-Comté;325678.89592
+2019.0;43.0;Haute-Loire;84.0;Auvergne-Rhône-Alpes;658525.67406
+2021.0;34.0;Hérault;76.0;Occitanie;438988.92534
+2024.0;79.0;Deux-Sèvres;75.0;Nouvelle-Aquitaine;642245.90666
+2023.0;13.0;Bouches-du-Rhône;93.0;Provence-Alpes-Côte d'Azur;6409812.47948
+2020.0;29.0;Finistère;53.0;Bretagne;1048484.2546
+2021.0;76.0;Seine-Maritime;28.0;Normandie;4787199.36512
+2020.0;12.0;Aveyron;76.0;Occitanie;335127.28081
+2020.0;46.0;Lot;76.0;Occitanie;209165.71283
+2020.0;23.0;Creuse;75.0;Nouvelle-Aquitaine;89657.05514
+2021.0;86.0;Vienne;75.0;Nouvelle-Aquitaine;414236.92788
+2018.0;13.0;Bouches-du-Rhône;93.0;Provence-Alpes-Côte d'Azur;5603146.7299
+2021.0;49.0;Maine-et-Loire;52.0;Pays de la Loire;1197727.74044
+2019.0;7.0;Ardèche;84.0;Auvergne-Rhône-Alpes;539942.7134
+2023.0;83.0;Var;93.0;Provence-Alpes-Côte d'Azur;426748.36306
+2020.0;33.0;Gironde;75.0;Nouvelle-Aquitaine;1346380.72759
+2022.0;2B;Haute-Corse;94.0;Corse;70258.99
+2024.0;81.0;Tarn;76.0;Occitanie;414079.97551
+2024.0;56.0;Morbihan;53.0;Bretagne;1232486.15293
+2018.0;10.0;Aube;44.0;Grand Est;573636.52207
+2024.0;16.0;Charente;75.0;Nouvelle-Aquitaine;681205.92158
+2024.0;34.0;Hérault;76.0;Occitanie;453461.329
+2019.0;24.0;Dordogne;75.0;Nouvelle-Aquitaine;475173.90392
+2018.0;58.0;Nièvre;27.0;Bourgogne-Franche-Comté;355849.12286
+2024.0;49.0;Maine-et-Loire;52.0;Pays de la Loire;954877.96
+2022.0;19.0;Corrèze;75.0;Nouvelle-Aquitaine;324753.99053
+2023.0;57.0;Moselle;44.0;Grand Est;2907485.8399
+2021.0;972.0;Martinique;2.0;Martinique;119400.397
+2022.0;78.0;Yvelines;11.0;Île-de-France;1473414.15904
+2022.0;8.0;Ardennes;44.0;Grand Est;777512.12442
+2022.0;69.0;Rhône;84.0;Auvergne-Rhône-Alpes;2604836.56709
+2021.0;65.0;Hautes-Pyrénées;76.0;Occitanie;315358.60176
+2023.0;67.0;Bas-Rhin;44.0;Grand Est;2516077.4829
+2022.0;55.0;Meuse;44.0;Grand Est;493104.60388
+2022.0;68.0;Haut-Rhin;44.0;Grand Est;2031088.20554
+2022.0;972.0;Martinique;2.0;Martinique;150011.7
+2021.0;88.0;Vosges;44.0;Grand Est;1792416.7473
+2018.0;82.0;Tarn-et-Garonne;76.0;Occitanie;179758.59024
+2020.0;24.0;Dordogne;75.0;Nouvelle-Aquitaine;413043.74938
+2024.0;974.0;La Réunion;4.0;La Réunion;275166.076
+2024.0;80.0;Somme;32.0;Hauts-de-France;1237633.89483
+2022.0;50.0;Manche;28.0;Normandie;1321096.05718
+2023.0;81.0;Tarn;76.0;Occitanie;440494.66359
+2021.0;69.0;Rhône;84.0;Auvergne-Rhône-Alpes;2713759.0947
+2018.0;69.0;Rhône;84.0;Auvergne-Rhône-Alpes;2779364.31303
+2020.0;64.0;Pyrénées-Atlantiques;75.0;Nouvelle-Aquitaine;998819.48004
+2023.0;45.0;Loiret;24.0;Centre-Val de Loire;1147780.51775
+2022.0;80.0;Somme;32.0;Hauts-de-France;1208630.37432
+2019.0;73.0;Savoie;84.0;Auvergne-Rhône-Alpes;4294359.21336
+2020.0;17.0;Charente-Maritime;75.0;Nouvelle-Aquitaine;434245.99958
+2021.0;91.0;Essonne;11.0;Île-de-France;944308.94265
+2024.0;41.0;Loir-et-Cher;24.0;Centre-Val de Loire;373219.487
+2023.0;48.0;Lozère;76.0;Occitanie;98509.985
+2018.0;972.0;Martinique;2.0;Martinique;138832.983
+2020.0;6.0;Alpes-Maritimes;93.0;Provence-Alpes-Côte d'Azur;457905.16541
+2023.0;82.0;Tarn-et-Garonne;76.0;Occitanie;183562.33375
+2024.0;12.0;Aveyron;76.0;Occitanie;314573.5037
+2018.0;95.0;Val-d'Oise;11.0;Île-de-France;525043.51899
+2020.0;11.0;Aude;76.0;Occitanie;268535.51532
+2023.0;3.0;Allier;84.0;Auvergne-Rhône-Alpes;564271.16008
+2020.0;45.0;Loiret;24.0;Centre-Val de Loire;1220505.07225
+2021.0;84.0;Vaucluse;93.0;Provence-Alpes-Côte d'Azur;731424.97493
+2019.0;57.0;Moselle;44.0;Grand Est;2734211.57427
+2023.0;63.0;Puy-de-Dôme;84.0;Auvergne-Rhône-Alpes;1387963.78215
+2021.0;67.0;Bas-Rhin;44.0;Grand Est;2761005.32232
+2018.0;88.0;Vosges;44.0;Grand Est;1788042.33231
+2022.0;16.0;Charente;75.0;Nouvelle-Aquitaine;716318.76134
+2019.0;54.0;Meurthe-et-Moselle;44.0;Grand Est;1791864.28927
+2019.0;80.0;Somme;32.0;Hauts-de-France;1362002.49199
+2024.0;2.0;Aisne;32.0;Hauts-de-France;876569.7684
+2018.0;44.0;Loire-Atlantique;52.0;Pays de la Loire;2146002.41869
+2022.0;2A;Corse-du-Sud;94.0;Corse;69037.387
+2024.0;18.0;Cher;24.0;Centre-Val de Loire;319407.21968
+2018.0;73.0;Savoie;84.0;Auvergne-Rhône-Alpes;4601974.46988
+2023.0;64.0;Pyrénées-Atlantiques;75.0;Nouvelle-Aquitaine;1056961.86295
+2021.0;94.0;Val-de-Marne;11.0;Île-de-France;725131.67522
+2019.0;66.0;Pyrénées-Orientales;76.0;Occitanie;242318.57961
+2020.0;1.0;Ain;84.0;Auvergne-Rhône-Alpes;1658294.58014
+2022.0;54.0;Meurthe-et-Moselle;44.0;Grand Est;1612347.80792
+2020.0;78.0;Yvelines;11.0;Île-de-France;1372846.34189
+2023.0;9.0;Ariège;76.0;Occitanie;233935.53008
+2019.0;11.0;Aude;76.0;Occitanie;276781.76685
+2023.0;70.0;Haute-Saône;27.0;Bourgogne-Franche-Comté;436124.71933
+2022.0;67.0;Bas-Rhin;44.0;Grand Est;2643349.53346
+2021.0;89.0;Yonne;27.0;Bourgogne-Franche-Comté;587874.97516
+2022.0;38.0;Isère;84.0;Auvergne-Rhône-Alpes;3929492.08187
+2020.0;62.0;Pas-de-Calais;32.0;Hauts-de-France;3176572.16606
+2018.0;8.0;Ardennes;44.0;Grand Est;807990.22535
+2022.0;29.0;Finistère;53.0;Bretagne;1137107.23679
+2020.0;88.0;Vosges;44.0;Grand Est;1607953.09317
+2021.0;17.0;Charente-Maritime;75.0;Nouvelle-Aquitaine;474043.83879
+2021.0;55.0;Meuse;44.0;Grand Est;515020.21016
+2022.0;10.0;Aube;44.0;Grand Est;644162.76307
+2022.0;53.0;Mayenne;52.0;Pays de la Loire;924397.49556
+2019.0;77.0;Seine-et-Marne;11.0;Île-de-France;2033658.02677
+2019.0;5.0;Hautes-Alpes;93.0;Provence-Alpes-Côte d'Azur;54909.20021
+2024.0;90.0;Territoire de Belfort;27.0;Bourgogne-Franche-Comté;181625.44875
+2019.0;39.0;Jura;27.0;Bourgogne-Franche-Comté;581632.76043
+2019.0;8.0;Ardennes;44.0;Grand Est;812266.29998
+2021.0;66.0;Pyrénées-Orientales;76.0;Occitanie;224688.17614
+2018.0;5.0;Hautes-Alpes;93.0;Provence-Alpes-Côte d'Azur;51398.22156
+2018.0;76.0;Seine-Maritime;28.0;Normandie;4890752.09734
+2018.0;976.0;Mayotte;6.0;Mayotte;71243.305
+2023.0;88.0;Vosges;44.0;Grand Est;1257490.40253
+2018.0;78.0;Yvelines;11.0;Île-de-France;1656234.45922
+2018.0;94.0;Val-de-Marne;11.0;Île-de-France;652959.30384
+2024.0;87.0;Haute-Vienne;75.0;Nouvelle-Aquitaine;307827.122
+2019.0;972.0;Martinique;2.0;Martinique;115217.099
+2019.0;30.0;Gard;76.0;Occitanie;1176294.25674
+2023.0;95.0;Val-d'Oise;11.0;Île-de-France;478366.889
+2023.0;14.0;Calvados;28.0;Normandie;884042.265
+2020.0;36.0;Indre;24.0;Centre-Val de Loire;372985.69395
+2018.0;19.0;Corrèze;75.0;Nouvelle-Aquitaine;336975.68095
+2020.0;75.0;Paris;11.0;Île-de-France;524063.09665
+2021.0;976.0;Mayotte;6.0;Mayotte;83784.961
+2020.0;84.0;Vaucluse;93.0;Provence-Alpes-Côte d'Azur;693624.06128
+2019.0;70.0;Haute-Saône;27.0;Bourgogne-Franche-Comté;411348.70156
+2024.0;30.0;Gard;76.0;Occitanie;1080227.56599
+2023.0;79.0;Deux-Sèvres;75.0;Nouvelle-Aquitaine;664688.93649
+2023.0;94.0;Val-de-Marne;11.0;Île-de-France;680632.80833
+2024.0;72.0;Sarthe;52.0;Pays de la Loire;1011026.56759
+2019.0;64.0;Pyrénées-Atlantiques;75.0;Nouvelle-Aquitaine;1028156.83512
+2018.0;90.0;Territoire de Belfort;27.0;Bourgogne-Franche-Comté;231390.98547
+2020.0;4.0;Alpes-de-Haute-Provence;93.0;Provence-Alpes-Côte d'Azur;208443.82299
+2024.0;95.0;Val-d'Oise;11.0;Île-de-France;485532.734
+2020.0;25.0;Doubs;27.0;Bourgogne-Franche-Comté;748395.66565
+2021.0;22.0;Côtes-d'Armor;53.0;Bretagne;923782.95008
+2018.0;30.0;Gard;76.0;Occitanie;1317672.31938
+2018.0;51.0;Marne;44.0;Grand Est;1420750.49013
+2021.0;59.0;Nord;32.0;Hauts-de-France;10602399.12792
+2018.0;26.0;Drôme;84.0;Auvergne-Rhône-Alpes;1165150.30126
+2020.0;86.0;Vienne;75.0;Nouvelle-Aquitaine;390136.95683
+2024.0;91.0;Essonne;11.0;Île-de-France;1024850.89268
+2020.0;18.0;Cher;24.0;Centre-Val de Loire;304312.73282
+2018.0;16.0;Charente;75.0;Nouvelle-Aquitaine;742910.27531
+2021.0;44.0;Loire-Atlantique;52.0;Pays de la Loire;1818745.86136
+2021.0;78.0;Yvelines;11.0;Île-de-France;1521110.21271
+2024.0;65.0;Hautes-Pyrénées;76.0;Occitanie;269027.16433
+2021.0;33.0;Gironde;75.0;Nouvelle-Aquitaine;1357313.85183
+2021.0;50.0;Manche;28.0;Normandie;1318179.86784
+2023.0;5.0;Hautes-Alpes;93.0;Provence-Alpes-Côte d'Azur;58173.024
+2024.0;10.0;Aube;44.0;Grand Est;618435.76175
+2019.0;87.0;Haute-Vienne;75.0;Nouvelle-Aquitaine;437909.47428
+2023.0;1.0;Ain;84.0;Auvergne-Rhône-Alpes;1714483.07099
+2023.0;2.0;Aisne;32.0;Hauts-de-France;876218.27793
+2021.0;51.0;Marne;44.0;Grand Est;1395338.31879
+2022.0;25.0;Doubs;27.0;Bourgogne-Franche-Comté;811171.27786
+2022.0;91.0;Essonne;11.0;Île-de-France;960535.2414
+2021.0;54.0;Meurthe-et-Moselle;44.0;Grand Est;1797148.62539
+2024.0;67.0;Bas-Rhin;44.0;Grand Est;2239006.78734
+2019.0;48.0;Lozère;76.0;Occitanie;112284.15631
+2022.0;976.0;Mayotte;6.0;Mayotte;87063.273
