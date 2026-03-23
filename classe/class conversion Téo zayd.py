@@ -56,7 +56,7 @@ class Conversion:
                             if valeur.replace(',', '').replace('.', '').isdigit():
                                 ligne_convertie.append(float(valeur.replace(',', '.')))
                             else:
-                                # C'est du texte (nom département, région...)
+                                # C'est du texte on le laisse (nom département, 2b,2a...)
                                 ligne_convertie.append(valeur)
                     
                     data_finale.append(ligne_convertie)
