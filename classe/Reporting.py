@@ -119,7 +119,7 @@ class Reporting:
 
     def projection_2030(self, collection, nom_region, annee_cible, secteur, energie):
         """
-        FONCTIONNALITÉ 6 : Projection linéaire basée sur le taux d'évolution moyen.
+        FONCTIONNALITÉ 5 : Projection linéaire basée sur le taux d'évolution moyen.
         """
         # Préparation des données historiques
         data = collection.filtre_region(nom_region).filtre_secteur(secteur).filtre_energie(energie)
