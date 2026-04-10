@@ -42,15 +42,12 @@ class ClasseDonneeEnergie:
         """
         Definit les regles de tri (comparaison "plus petit que").
         Tri par: 1. Annee, 2. ID Departement, 3. Secteur
-        )
         """
         # Comparaison par annee
         if self.annee != autre.annee:
             return self.annee < autre.annee
-        
         # Si annee identique, comparaison par departement
         if self.id_dept != autre.id_dept:
-            return self.id_dept < autre.id_dept
-            
+            return self.id_dept < autre.id_dept   
         # Sinon, comparaison par secteur (ordre alphabetique)
         return self.secteur < autre.secteur
