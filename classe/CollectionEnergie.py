@@ -19,14 +19,14 @@ class CollectionEnergie:
         """
         Représente la collection sous forme de texte (un objet par ligne).
         """
-        text_final = ""
+        text_final = ""#chaine de caractere vide 
         for donnee in self.DonneEnergie:
             text_final += f"{donnee}\n" 
         return text_final
     
     def __len__(self):
         """ Retourne le nombre d'entrées dans la collection """
-        return len(self.DonneEnergie)
+        return len(self.DonneEnergie)#va permetre de lire 
     
     def sort(self):
         """ Trie la collection en utilisant le __lt__ de la classe DonneeEnergie """
@@ -34,21 +34,21 @@ class CollectionEnergie:
 
     def departement(self):
         """ Retourne la liste des noms de départements """
-        liste_departement = []
+        liste_departement = []#initialisation d'une liste vide 
         for donnee in self.DonneEnergie:
-            liste_departement.append(donnee.dept)
+            liste_departement.append(donnee.dept)#permet d'ajouter dans la liste 
         return liste_departement
     
     def annee(self):
         """ Retourne la liste des années """
-        liste_annee = []
+        liste_annee = []#creation d'une liste vide pour les différentes années 
         for donnee in self.DonneEnergie:
-            liste_annee.append(donnee.annee)
+            liste_annee.append(donnee.annee)#ajouter dans la liste 
         return liste_annee
     
     def consomation(self):
         """ Retourne la liste des consommations """
-        liste_consomation = []
+        liste_consomation = []#creation d'une liste vide pour les consomation 
         for donnee in self.DonneEnergie:
             
             liste_consomation.append(donnee.consommation)
