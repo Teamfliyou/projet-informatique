@@ -16,7 +16,7 @@ from classe.Reporting import Reporting
 # =============================================================================
 path = "data/conso_nettoyee.csv"
 ma_base = CollectionEnergie()
-visu = Reporting()
+visu = Reporting()#pour appeller la mise en place du graphique 
 
 print("="*60)
 print("      CHARGEMENT DE LA BASE DE DONNÉES")
