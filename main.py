@@ -86,27 +86,27 @@ else:
             departement = input("Département (ex: 62) : ") + ".0"
             secteur = input("Secteur (Agriculture, Industrie, Résidentiel, Tertiaire, Autre) : ")
             energie = input("Énergie (Electricité, Gaz, Total) : ")
-            visu.evolution_conso_dept(ma_base, d, s, e)
+            visu.evolution_conso_dept(ma_base, departement, secteur, energie)
 
         elif choix == "2":
             departement1 = input("Premier dépt (ex: 62) : ") + ".0"
             departement2 = input("Deuxième dépt (ex: 59) : ") + ".0"
             secteur = input("Secteur (Agriculture, Industrie, Résidentiel, Tertiaire, Autre) : ")
-            visu.comparer_deux_depts(ma_base, d1, d2, s)
+            visu.comparer_deux_depts(ma_base, departement1, departement2, secteur)
 
         elif choix == "3":
             departement = input("Département (ex: 75) : ") + ".0"
             annee = input("Année (ex: 2020) : ") + ".0"
-            visu.comparer_secteurs(ma_base, d, a)
+            visu.comparer_secteurs(ma_base, departement, annee)
 
         elif choix == "4":
             departement = input("Département (ex: 69) : ") + ".0"
-            visu.repartition_elec_gaz(ma_base, d)
+            visu.repartition_elec_gaz(ma_base, departement)
 
         elif choix == "5":
             region = input("Région (ex: Hauts-de-France) : ")
             secteur = input("Secteur (ex: Industrie) : ")
-            visu.projection_2030(ma_base, reg, 2050, sec, "Electricité")
+            visu.projection_2030(ma_base, region, 2050, secteur, "Electricité")
 
         elif choix == "Q":
             print("\nArrêt du programme. Au revoir !")
